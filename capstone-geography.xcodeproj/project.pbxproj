@@ -1,0 +1,640 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		18426CCD298C180D005C544E /* CountryDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18426CCC298C180D005C544E /* CountryDetail.swift */; };
+		18963939299400BE00AB9C75 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18963938299400BE00AB9C75 /* SettingsView.swift */; };
+		1896393B2994020F00AB9C75 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1896393A2994020F00AB9C75 /* LocationManager.swift */; };
+		189AAB7F2998284600012033 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189AAB7E2998284600012033 /* SearchBar.swift */; };
+		18A9E51D298EE0B1005942B5 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9E51C298EE0B1005942B5 /* MapView.swift */; };
+		18C38CC7298ADBE1002863CE /* capstone_geographyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C38CC6298ADBE1002863CE /* capstone_geographyApp.swift */; };
+		18C38CC9298ADBE1002863CE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C38CC8298ADBE1002863CE /* ContentView.swift */; };
+		18C38CCB298ADBE5002863CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18C38CCA298ADBE5002863CE /* Assets.xcassets */; };
+		18C38CCE298ADBE5002863CE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18C38CCD298ADBE5002863CE /* Preview Assets.xcassets */; };
+		18C38CD8298ADBE5002863CE /* capstone_geographyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C38CD7298ADBE5002863CE /* capstone_geographyTests.swift */; };
+		18C38CE2298ADBE5002863CE /* capstone_geographyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C38CE1298ADBE5002863CE /* capstone_geographyUITests.swift */; };
+		18C38CE4298ADBE5002863CE /* capstone_geographyUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C38CE3298ADBE5002863CE /* capstone_geographyUITestsLaunchTests.swift */; };
+		18C38CF2298AE05F002863CE /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C38CF1298AE05F002863CE /* Data.swift */; };
+		18C38CF4298AE0C6002863CE /* CountryList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C38CF3298AE0C6002863CE /* CountryList.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		18C38CD4298ADBE5002863CE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 18C38CBB298ADBE1002863CE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 18C38CC2298ADBE1002863CE;
+			remoteInfo = "capstone-geography";
+		};
+		18C38CDE298ADBE5002863CE /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 18C38CBB298ADBE1002863CE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 18C38CC2298ADBE1002863CE;
+			remoteInfo = "capstone-geography";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		18426CCC298C180D005C544E /* CountryDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryDetail.swift; sourceTree = "<group>"; };
+		18963938299400BE00AB9C75 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		1896393A2994020F00AB9C75 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
+		189AAB7E2998284600012033 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		18A9E51C298EE0B1005942B5 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		18C38CC3298ADBE1002863CE /* capstone-geography.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "capstone-geography.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C38CC6298ADBE1002863CE /* capstone_geographyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = capstone_geographyApp.swift; sourceTree = "<group>"; };
+		18C38CC8298ADBE1002863CE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		18C38CCA298ADBE5002863CE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		18C38CCD298ADBE5002863CE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		18C38CD3298ADBE5002863CE /* capstone-geographyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "capstone-geographyTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C38CD7298ADBE5002863CE /* capstone_geographyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = capstone_geographyTests.swift; sourceTree = "<group>"; };
+		18C38CDD298ADBE5002863CE /* capstone-geographyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "capstone-geographyUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		18C38CE1298ADBE5002863CE /* capstone_geographyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = capstone_geographyUITests.swift; sourceTree = "<group>"; };
+		18C38CE3298ADBE5002863CE /* capstone_geographyUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = capstone_geographyUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		18C38CF0298ADC45002863CE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		18C38CF1298AE05F002863CE /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		18C38CF3298AE0C6002863CE /* CountryList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryList.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		18C38CC0298ADBE1002863CE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C38CD0298ADBE5002863CE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C38CDA298ADBE5002863CE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		189C5BC42999725500B39781 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				18426CCC298C180D005C544E /* CountryDetail.swift */,
+				18C38CF3298AE0C6002863CE /* CountryList.swift */,
+				18963938299400BE00AB9C75 /* SettingsView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		189C5BC52999726C00B39781 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				18A9E51C298EE0B1005942B5 /* MapView.swift */,
+				1896393A2994020F00AB9C75 /* LocationManager.swift */,
+				18C38CF1298AE05F002863CE /* Data.swift */,
+				189AAB7E2998284600012033 /* SearchBar.swift */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		18C38CBA298ADBE1002863CE = {
+			isa = PBXGroup;
+			children = (
+				18C38CC5298ADBE1002863CE /* capstone-geography */,
+				18C38CD6298ADBE5002863CE /* capstone-geographyTests */,
+				18C38CE0298ADBE5002863CE /* capstone-geographyUITests */,
+				18C38CC4298ADBE1002863CE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		18C38CC4298ADBE1002863CE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				18C38CC3298ADBE1002863CE /* capstone-geography.app */,
+				18C38CD3298ADBE5002863CE /* capstone-geographyTests.xctest */,
+				18C38CDD298ADBE5002863CE /* capstone-geographyUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		18C38CC5298ADBE1002863CE /* capstone-geography */ = {
+			isa = PBXGroup;
+			children = (
+				18C38CF0298ADC45002863CE /* Info.plist */,
+				18C38CC6298ADBE1002863CE /* capstone_geographyApp.swift */,
+				18C38CC8298ADBE1002863CE /* ContentView.swift */,
+				189C5BC52999726C00B39781 /* Data */,
+				189C5BC42999725500B39781 /* Views */,
+				18C38CCA298ADBE5002863CE /* Assets.xcassets */,
+				18C38CCC298ADBE5002863CE /* Preview Content */,
+			);
+			path = "capstone-geography";
+			sourceTree = "<group>";
+		};
+		18C38CCC298ADBE5002863CE /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				18C38CCD298ADBE5002863CE /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		18C38CD6298ADBE5002863CE /* capstone-geographyTests */ = {
+			isa = PBXGroup;
+			children = (
+				18C38CD7298ADBE5002863CE /* capstone_geographyTests.swift */,
+			);
+			path = "capstone-geographyTests";
+			sourceTree = "<group>";
+		};
+		18C38CE0298ADBE5002863CE /* capstone-geographyUITests */ = {
+			isa = PBXGroup;
+			children = (
+				18C38CE1298ADBE5002863CE /* capstone_geographyUITests.swift */,
+				18C38CE3298ADBE5002863CE /* capstone_geographyUITestsLaunchTests.swift */,
+			);
+			path = "capstone-geographyUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		18C38CC2298ADBE1002863CE /* capstone-geography */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C38CE7298ADBE5002863CE /* Build configuration list for PBXNativeTarget "capstone-geography" */;
+			buildPhases = (
+				18C38CBF298ADBE1002863CE /* Sources */,
+				18C38CC0298ADBE1002863CE /* Frameworks */,
+				18C38CC1298ADBE1002863CE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "capstone-geography";
+			productName = "capstone-geography";
+			productReference = 18C38CC3298ADBE1002863CE /* capstone-geography.app */;
+			productType = "com.apple.product-type.application";
+		};
+		18C38CD2298ADBE5002863CE /* capstone-geographyTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C38CEA298ADBE5002863CE /* Build configuration list for PBXNativeTarget "capstone-geographyTests" */;
+			buildPhases = (
+				18C38CCF298ADBE5002863CE /* Sources */,
+				18C38CD0298ADBE5002863CE /* Frameworks */,
+				18C38CD1298ADBE5002863CE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				18C38CD5298ADBE5002863CE /* PBXTargetDependency */,
+			);
+			name = "capstone-geographyTests";
+			productName = "capstone-geographyTests";
+			productReference = 18C38CD3298ADBE5002863CE /* capstone-geographyTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		18C38CDC298ADBE5002863CE /* capstone-geographyUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 18C38CED298ADBE5002863CE /* Build configuration list for PBXNativeTarget "capstone-geographyUITests" */;
+			buildPhases = (
+				18C38CD9298ADBE5002863CE /* Sources */,
+				18C38CDA298ADBE5002863CE /* Frameworks */,
+				18C38CDB298ADBE5002863CE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				18C38CDF298ADBE5002863CE /* PBXTargetDependency */,
+			);
+			name = "capstone-geographyUITests";
+			productName = "capstone-geographyUITests";
+			productReference = 18C38CDD298ADBE5002863CE /* capstone-geographyUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		18C38CBB298ADBE1002863CE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					18C38CC2298ADBE1002863CE = {
+						CreatedOnToolsVersion = 14.0;
+					};
+					18C38CD2298ADBE5002863CE = {
+						CreatedOnToolsVersion = 14.0;
+						TestTargetID = 18C38CC2298ADBE1002863CE;
+					};
+					18C38CDC298ADBE5002863CE = {
+						CreatedOnToolsVersion = 14.0;
+						TestTargetID = 18C38CC2298ADBE1002863CE;
+					};
+				};
+			};
+			buildConfigurationList = 18C38CBE298ADBE1002863CE /* Build configuration list for PBXProject "capstone-geography" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 18C38CBA298ADBE1002863CE;
+			productRefGroup = 18C38CC4298ADBE1002863CE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				18C38CC2298ADBE1002863CE /* capstone-geography */,
+				18C38CD2298ADBE5002863CE /* capstone-geographyTests */,
+				18C38CDC298ADBE5002863CE /* capstone-geographyUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		18C38CC1298ADBE1002863CE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C38CCE298ADBE5002863CE /* Preview Assets.xcassets in Resources */,
+				18C38CCB298ADBE5002863CE /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C38CD1298ADBE5002863CE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C38CDB298ADBE5002863CE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		18C38CBF298ADBE1002863CE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18963939299400BE00AB9C75 /* SettingsView.swift in Sources */,
+				18426CCD298C180D005C544E /* CountryDetail.swift in Sources */,
+				18A9E51D298EE0B1005942B5 /* MapView.swift in Sources */,
+				18C38CF4298AE0C6002863CE /* CountryList.swift in Sources */,
+				1896393B2994020F00AB9C75 /* LocationManager.swift in Sources */,
+				189AAB7F2998284600012033 /* SearchBar.swift in Sources */,
+				18C38CC9298ADBE1002863CE /* ContentView.swift in Sources */,
+				18C38CF2298AE05F002863CE /* Data.swift in Sources */,
+				18C38CC7298ADBE1002863CE /* capstone_geographyApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C38CCF298ADBE5002863CE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C38CD8298ADBE5002863CE /* capstone_geographyTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		18C38CD9298ADBE5002863CE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				18C38CE4298ADBE5002863CE /* capstone_geographyUITestsLaunchTests.swift in Sources */,
+				18C38CE2298ADBE5002863CE /* capstone_geographyUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		18C38CD5298ADBE5002863CE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 18C38CC2298ADBE1002863CE /* capstone-geography */;
+			targetProxy = 18C38CD4298ADBE5002863CE /* PBXContainerItemProxy */;
+		};
+		18C38CDF298ADBE5002863CE /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 18C38CC2298ADBE1002863CE /* capstone-geography */;
+			targetProxy = 18C38CDE298ADBE5002863CE /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		18C38CE5298ADBE5002863CE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		18C38CE6298ADBE5002863CE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		18C38CE8298ADBE5002863CE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"capstone-geography/Preview Content\"";
+				DEVELOPMENT_TEAM = 525SLBKSWZ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "capstone-geography/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Location info is used to calculate your distance from each country.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "cklingenberg.capstone-geography";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		18C38CE9298ADBE5002863CE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"capstone-geography/Preview Content\"";
+				DEVELOPMENT_TEAM = 525SLBKSWZ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "capstone-geography/Info.plist";
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Location info is used to calculate your distance from each country.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "cklingenberg.capstone-geography";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		18C38CEB298ADBE5002863CE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 525SLBKSWZ;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "cklingenberg.capstone-geographyTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/capstone-geography.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/capstone-geography";
+			};
+			name = Debug;
+		};
+		18C38CEC298ADBE5002863CE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 525SLBKSWZ;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "cklingenberg.capstone-geographyTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/capstone-geography.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/capstone-geography";
+			};
+			name = Release;
+		};
+		18C38CEE298ADBE5002863CE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 525SLBKSWZ;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "cklingenberg.capstone-geographyUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "capstone-geography";
+			};
+			name = Debug;
+		};
+		18C38CEF298ADBE5002863CE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 525SLBKSWZ;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "cklingenberg.capstone-geographyUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "capstone-geography";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		18C38CBE298ADBE1002863CE /* Build configuration list for PBXProject "capstone-geography" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C38CE5298ADBE5002863CE /* Debug */,
+				18C38CE6298ADBE5002863CE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18C38CE7298ADBE5002863CE /* Build configuration list for PBXNativeTarget "capstone-geography" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C38CE8298ADBE5002863CE /* Debug */,
+				18C38CE9298ADBE5002863CE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18C38CEA298ADBE5002863CE /* Build configuration list for PBXNativeTarget "capstone-geographyTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C38CEB298ADBE5002863CE /* Debug */,
+				18C38CEC298ADBE5002863CE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		18C38CED298ADBE5002863CE /* Build configuration list for PBXNativeTarget "capstone-geographyUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				18C38CEE298ADBE5002863CE /* Debug */,
+				18C38CEF298ADBE5002863CE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 18C38CBB298ADBE1002863CE /* Project object */;
+}
