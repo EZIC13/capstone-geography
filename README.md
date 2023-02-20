@@ -1,8 +1,6 @@
 # capstone-geography
 This is the front-end portion of the Swift Geography mobile application project. The repository for the API (back-end) can be found [here](https://github.com/EZIC13/capstone-api).
 
-> NOTE: This README file is in progress and may be incomplete. Its contents will be updated as the project progresses until complete, at which point this notice will be removed.
-
 <br/>
 
 # Front-end Details
@@ -45,15 +43,30 @@ The `getDateAndTime(city: String) -> String` function takes in a city name as a 
 <br/>
 
 # SearchBar.swift
+This file contains the `SearchBar` view that allows the user to filter the list of all countries. When text is entered into the searchbar, the `text` var will be updated to the current contents of the searchbar. This value will then be used to filter the list of countries to only those containing the `search` string. The text inside the searchbar can be cleared, and a cancel button is also present. 
 
 <br/>
 
 # CountryDetail.swift
+This file contains the view that shows all of the details about a given country. Each instance takes in a `Country` parameter and shows the following information: 
+- A `MapView` instance showing the capital city on the map
+- The country's name
+- The country's flag
+- A list containing the following sections: 
+  - Dynamic Info (lists the local date/time and distance from the user)
+  - Geographic Info (lists the capital city, subregion, area, and whether the country is landlocked)
+  - Demographic Info (lists the country's population and demonym)
 
 <br/>
 
 # CountryList.swift
+This file contains the view that the user sees when the first open the app. It contains a `SearchBar` instance that filters the list to only show countries containing the text in the bar. If it is empty, all countries are shown. The list is sorted alphabetically and each letter section is collapsable. Each list item contains the country's name and flag, and pressing on it will redirect the user to a `CountryDetail` instance that displays information on that specific country. The toolbar contains a button to bring up the `SettingsView` sheet.
 
 <br/>
 
 # SettingsView.swift
+This file contains the view that appears when they press on the gear icon in the `CountryList` screen. It contains the following:
+- A toggle to display imperial or metric units throughout the app (this boolean is saved to UserDefaults)
+- The coordinates of the user's current location
+- A reverse geocoded address from the above coordinates
+- The date and time of the user's current location
