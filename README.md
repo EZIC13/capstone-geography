@@ -38,7 +38,7 @@ The `CountriesService` class conforms to the `ObservableObject` protocol and has
 ```
 The `getCountries()` method pulls data from the API and updates the `countries` var for the data to be displayed. Once the data is pulled, it will be saved locally to the device for offline viewing. If the API cannot be pulled (for example, it is down or the device is not connected to the internet), this method will pull the locally stored data and use it accordingly.
 
-The `getDateAndTime(city: String) -> String` function takes in a city name as a string and returns another string that contains the date the time of the `city` paramater. The data is returned in 24 hour time and is formatted as follows: `MM/dd/yyyy HH:mm:ss`.
+The `getDateAndTime(city: String) -> String` function takes in a city name as a string and returns another string containing the date and time of that city. The data is returned in 24 hour time and is formatted as follows: `MM/dd/yyyy HH:mm:ss`.
 
 <br/>
 
