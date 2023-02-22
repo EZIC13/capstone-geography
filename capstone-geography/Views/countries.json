@@ -1,0 +1,4219 @@
+[
+    {
+        "id": 35,
+        "name_common": "Afghanistan",
+        "name_official": "Islamic Republic of Afghanistan",
+        "coordinates": {
+            "latitude": 34.52,
+            "longitude": 69.18
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "capital": "Kabul",
+        "landlocked": true,
+        "area": 652230,
+        "population": 40218234,
+        "demonym": "Afghan"
+    },
+    {
+        "id": 55,
+        "name_common": "Albania",
+        "name_official": "Republic of Albania",
+        "coordinates": {
+            "latitude": 41.32,
+            "longitude": 19.82
+        },
+        "flag": "https://flagcdn.com/w320/al.png",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "capital": "Tirana",
+        "landlocked": false,
+        "area": 28748,
+        "population": 2837743,
+        "demonym": "Albanian"
+    },
+    {
+        "id": 108,
+        "name_common": "Algeria",
+        "name_official": "People's Democratic Republic of Algeria",
+        "coordinates": {
+            "latitude": 36.75,
+            "longitude": 3.05
+        },
+        "flag": "https://flagcdn.com/w320/dz.png",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "capital": "Algiers",
+        "landlocked": false,
+        "area": 2381741,
+        "population": 44700000,
+        "demonym": "Algerian"
+    },
+    {
+        "id": 128,
+        "name_common": "American Samoa",
+        "name_official": "American Samoa",
+        "coordinates": {
+            "latitude": -14.27,
+            "longitude": -170.7
+        },
+        "flag": "https://flagcdn.com/w320/as.png",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "capital": "Pago Pago",
+        "landlocked": false,
+        "area": 199,
+        "population": 55197,
+        "demonym": "American Samoan"
+    },
+    {
+        "id": 124,
+        "name_common": "Andorra",
+        "name_official": "Principality of Andorra",
+        "coordinates": {
+            "latitude": 42.5,
+            "longitude": 1.52
+        },
+        "flag": "https://flagcdn.com/w320/ad.png",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "capital": "Andorra la Vella",
+        "landlocked": true,
+        "area": 468,
+        "population": 77265,
+        "demonym": "Andorran"
+    },
+    {
+        "id": 193,
+        "name_common": "Angola",
+        "name_official": "Republic of Angola",
+        "coordinates": {
+            "latitude": -8.83,
+            "longitude": 13.22
+        },
+        "flag": "https://flagcdn.com/w320/ao.png",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "capital": "Luanda",
+        "landlocked": false,
+        "area": 1246700,
+        "population": 32866268,
+        "demonym": "Angolan"
+    },
+    {
+        "id": 51,
+        "name_common": "Anguilla",
+        "name_official": "Anguilla",
+        "coordinates": {
+            "latitude": 18.22,
+            "longitude": -63.05
+        },
+        "flag": "https://flagcdn.com/w320/ai.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "The Valley",
+        "landlocked": false,
+        "area": 91,
+        "population": 13452,
+        "demonym": "Anguillian"
+    },
+    {
+        "id": 167,
+        "name_common": "Antarctica",
+        "name_official": "Antarctica",
+        "coordinates": {
+            "latitude": -90.0,
+            "longitude": 0.0
+        },
+        "flag": "https://flagcdn.com/w320/aq.png",
+        "region": "Antarctic",
+        "subregion": "Antarctic",
+        "capital": "N/A",
+        "landlocked": false,
+        "area": 14000000,
+        "population": 1000,
+        "demonym": "Antarctican"
+    },
+    {
+        "id": 213,
+        "name_common": "Antigua and Barbuda",
+        "name_official": "Antigua and Barbuda",
+        "coordinates": {
+            "latitude": 17.12,
+            "longitude": -61.85
+        },
+        "flag": "https://flagcdn.com/w320/ag.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Saint John's",
+        "landlocked": false,
+        "area": 442,
+        "population": 97928,
+        "demonym": "Antiguan, Barbudan"
+    },
+    {
+        "id": 8,
+        "name_common": "Argentina",
+        "name_official": "Argentine Republic",
+        "coordinates": {
+            "latitude": -34.58,
+            "longitude": -58.67
+        },
+        "flag": "https://flagcdn.com/w320/ar.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Buenos Aires",
+        "landlocked": false,
+        "area": 2780400,
+        "population": 45376763,
+        "demonym": "Argentine"
+    },
+    {
+        "id": 247,
+        "name_common": "Armenia",
+        "name_official": "Republic of Armenia",
+        "coordinates": {
+            "latitude": 40.17,
+            "longitude": 44.5
+        },
+        "flag": "https://flagcdn.com/w320/am.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Yerevan",
+        "landlocked": true,
+        "area": 29743,
+        "population": 2963234,
+        "demonym": "Armenian"
+    },
+    {
+        "id": 102,
+        "name_common": "Aruba",
+        "name_official": "Aruba",
+        "coordinates": {
+            "latitude": 12.52,
+            "longitude": -70.03
+        },
+        "flag": "https://flagcdn.com/w320/aw.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Oranjestad",
+        "landlocked": false,
+        "area": 180,
+        "population": 106766,
+        "demonym": "Aruban"
+    },
+    {
+        "id": 78,
+        "name_common": "Australia",
+        "name_official": "Commonwealth of Australia",
+        "coordinates": {
+            "latitude": -35.27,
+            "longitude": 149.13
+        },
+        "flag": "https://flagcdn.com/w320/au.png",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "capital": "Canberra",
+        "landlocked": false,
+        "area": 7692024,
+        "population": 25687041,
+        "demonym": "Australian"
+    },
+    {
+        "id": 41,
+        "name_common": "Austria",
+        "name_official": "Republic of Austria",
+        "coordinates": {
+            "latitude": 48.2,
+            "longitude": 16.37
+        },
+        "flag": "https://flagcdn.com/w320/at.png",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "capital": "Vienna",
+        "landlocked": true,
+        "area": 83871,
+        "population": 8917205,
+        "demonym": "Austrian"
+    },
+    {
+        "id": 210,
+        "name_common": "Azerbaijan",
+        "name_official": "Republic of Azerbaijan",
+        "coordinates": {
+            "latitude": 40.38,
+            "longitude": 49.87
+        },
+        "flag": "https://flagcdn.com/w320/az.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Baku",
+        "landlocked": true,
+        "area": 86600,
+        "population": 10110116,
+        "demonym": "Azerbaijani"
+    },
+    {
+        "id": 139,
+        "name_common": "Bahamas",
+        "name_official": "Commonwealth of the Bahamas",
+        "coordinates": {
+            "latitude": 25.08,
+            "longitude": -77.35
+        },
+        "flag": "https://flagcdn.com/w320/bs.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Nassau",
+        "landlocked": false,
+        "area": 13943,
+        "population": 393248,
+        "demonym": "Bahamian"
+    },
+    {
+        "id": 191,
+        "name_common": "Bahrain",
+        "name_official": "Kingdom of Bahrain",
+        "coordinates": {
+            "latitude": 26.23,
+            "longitude": 50.57
+        },
+        "flag": "https://flagcdn.com/w320/bh.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Manama",
+        "landlocked": false,
+        "area": 765,
+        "population": 1701583,
+        "demonym": "Bahraini"
+    },
+    {
+        "id": 4,
+        "name_common": "Bangladesh",
+        "name_official": "People's Republic of Bangladesh",
+        "coordinates": {
+            "latitude": 23.72,
+            "longitude": 90.4
+        },
+        "flag": "https://flagcdn.com/w320/bd.png",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "capital": "Dhaka",
+        "landlocked": false,
+        "area": 147570,
+        "population": 164689383,
+        "demonym": "Bangladeshi"
+    },
+    {
+        "id": 131,
+        "name_common": "Barbados",
+        "name_official": "Barbados",
+        "coordinates": {
+            "latitude": 13.1,
+            "longitude": -59.62
+        },
+        "flag": "https://flagcdn.com/w320/bb.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Bridgetown",
+        "landlocked": false,
+        "area": 430,
+        "population": 287371,
+        "demonym": "Barbadian"
+    },
+    {
+        "id": 39,
+        "name_common": "Belarus",
+        "name_official": "Republic of Belarus",
+        "coordinates": {
+            "latitude": 53.9,
+            "longitude": 27.57
+        },
+        "flag": "https://flagcdn.com/w320/by.png",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "capital": "Minsk",
+        "landlocked": true,
+        "area": 207600,
+        "population": 9398861,
+        "demonym": "Belarusian"
+    },
+    {
+        "id": 16,
+        "name_common": "Belgium",
+        "name_official": "Kingdom of Belgium",
+        "coordinates": {
+            "latitude": 50.83,
+            "longitude": 4.33
+        },
+        "flag": "https://flagcdn.com/w320/be.png",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "capital": "Brussels",
+        "landlocked": false,
+        "area": 30528,
+        "population": 11555997,
+        "demonym": "Belgian"
+    },
+    {
+        "id": 175,
+        "name_common": "Belize",
+        "name_official": "Belize",
+        "coordinates": {
+            "latitude": 17.25,
+            "longitude": -88.77
+        },
+        "flag": "https://flagcdn.com/w320/bz.png",
+        "region": "Americas",
+        "subregion": "Central America",
+        "capital": "Belmopan",
+        "landlocked": false,
+        "area": 22966,
+        "population": 397621,
+        "demonym": "Belizean"
+    },
+    {
+        "id": 239,
+        "name_common": "Benin",
+        "name_official": "Republic of Benin",
+        "coordinates": {
+            "latitude": 6.48,
+            "longitude": 2.62
+        },
+        "flag": "https://flagcdn.com/w320/bj.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Porto-Novo",
+        "landlocked": false,
+        "area": 112622,
+        "population": 12123198,
+        "demonym": "Beninese"
+    },
+    {
+        "id": 40,
+        "name_common": "Bermuda",
+        "name_official": "Bermuda",
+        "coordinates": {
+            "latitude": 32.28,
+            "longitude": -64.78
+        },
+        "flag": "https://flagcdn.com/w320/bm.png",
+        "region": "Americas",
+        "subregion": "North America",
+        "capital": "Hamilton",
+        "landlocked": false,
+        "area": 54,
+        "population": 63903,
+        "demonym": "Bermudian"
+    },
+    {
+        "id": 211,
+        "name_common": "Bhutan",
+        "name_official": "Kingdom of Bhutan",
+        "coordinates": {
+            "latitude": 27.47,
+            "longitude": 89.63
+        },
+        "flag": "https://flagcdn.com/w320/bt.png",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "capital": "Thimphu",
+        "landlocked": true,
+        "area": 38394,
+        "population": 771612,
+        "demonym": "Bhutanese"
+    },
+    {
+        "id": 67,
+        "name_common": "Bolivia",
+        "name_official": "Plurinational State of Bolivia",
+        "coordinates": {
+            "latitude": -19.02,
+            "longitude": -65.26
+        },
+        "flag": "https://flagcdn.com/w320/bo.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Sucre",
+        "landlocked": true,
+        "area": 1098581,
+        "population": 11673029,
+        "demonym": "Bolivian"
+    },
+    {
+        "id": 163,
+        "name_common": "Bosnia and Herzegovina",
+        "name_official": "Bosnia and Herzegovina",
+        "coordinates": {
+            "latitude": 43.87,
+            "longitude": 18.42
+        },
+        "flag": "https://flagcdn.com/w320/ba.png",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "capital": "Sarajevo",
+        "landlocked": false,
+        "area": 51209,
+        "population": 3280815,
+        "demonym": "Bosnian, Herzegovinian"
+    },
+    {
+        "id": 155,
+        "name_common": "Botswana",
+        "name_official": "Republic of Botswana",
+        "coordinates": {
+            "latitude": -24.63,
+            "longitude": 25.9
+        },
+        "flag": "https://flagcdn.com/w320/bw.png",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "capital": "Gaborone",
+        "landlocked": true,
+        "area": 582000,
+        "population": 2351625,
+        "demonym": "Motswana"
+    },
+    {
+        "id": 64,
+        "name_common": "Bouvet Island",
+        "name_official": "Bouvet Island",
+        "coordinates": {
+            "latitude": 54.4208,
+            "longitude": 3.3464
+        },
+        "flag": "https://flagcdn.com/w320/bv.png",
+        "region": "Antarctic",
+        "subregion": "Antarctic",
+        "capital": "N/A",
+        "landlocked": false,
+        "area": 49,
+        "population": 0,
+        "demonym": "N/A"
+    },
+    {
+        "id": 180,
+        "name_common": "Brazil",
+        "name_official": "Federative Republic of Brazil",
+        "coordinates": {
+            "latitude": -15.79,
+            "longitude": -47.88
+        },
+        "flag": "https://flagcdn.com/w320/br.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Bras\u00edlia",
+        "landlocked": false,
+        "area": 8515767,
+        "population": 212559409,
+        "demonym": "Brazilian"
+    },
+    {
+        "id": 79,
+        "name_common": "British Indian Ocean Territory",
+        "name_official": "British Indian Ocean Territory",
+        "coordinates": {
+            "latitude": -7.3,
+            "longitude": 72.4
+        },
+        "flag": "https://flagcdn.com/w320/io.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Diego Garcia",
+        "landlocked": false,
+        "area": 60,
+        "population": 3000,
+        "demonym": "Indian"
+    },
+    {
+        "id": 76,
+        "name_common": "British Virgin Islands",
+        "name_official": "Virgin Islands",
+        "coordinates": {
+            "latitude": 18.42,
+            "longitude": -64.62
+        },
+        "flag": "https://flagcdn.com/w320/vg.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Road Town",
+        "landlocked": false,
+        "area": 151,
+        "population": 30237,
+        "demonym": "Virgin Islander"
+    },
+    {
+        "id": 36,
+        "name_common": "Brunei",
+        "name_official": "Nation of Brunei, Abode of Peace",
+        "coordinates": {
+            "latitude": 4.88,
+            "longitude": 114.93
+        },
+        "flag": "https://flagcdn.com/w320/bn.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Bandar Seri Begawan",
+        "landlocked": false,
+        "area": 5765,
+        "population": 437483,
+        "demonym": "Bruneian"
+    },
+    {
+        "id": 58,
+        "name_common": "Bulgaria",
+        "name_official": "Republic of Bulgaria",
+        "coordinates": {
+            "latitude": 42.68,
+            "longitude": 23.32
+        },
+        "flag": "https://flagcdn.com/w320/bg.png",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "capital": "Sofia",
+        "landlocked": false,
+        "area": 110879,
+        "population": 6927288,
+        "demonym": "Bulgarian"
+    },
+    {
+        "id": 13,
+        "name_common": "Burkina Faso",
+        "name_official": "Burkina Faso",
+        "coordinates": {
+            "latitude": 12.37,
+            "longitude": -1.52
+        },
+        "flag": "https://flagcdn.com/w320/bf.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Ouagadougou",
+        "landlocked": true,
+        "area": 272967,
+        "population": 20903278,
+        "demonym": "Burkinabe"
+    },
+    {
+        "id": 3,
+        "name_common": "Burundi",
+        "name_official": "Republic of Burundi",
+        "coordinates": {
+            "latitude": -3.43,
+            "longitude": 29.93
+        },
+        "flag": "https://flagcdn.com/w320/bi.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Gitega",
+        "landlocked": true,
+        "area": 27834,
+        "population": 11890781,
+        "demonym": "Burundian"
+    },
+    {
+        "id": 89,
+        "name_common": "Cambodia",
+        "name_official": "Kingdom of Cambodia",
+        "coordinates": {
+            "latitude": 11.55,
+            "longitude": 104.92
+        },
+        "flag": "https://flagcdn.com/w320/kh.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Phnom Penh",
+        "landlocked": false,
+        "area": 181035,
+        "population": 16718971,
+        "demonym": "Cambodian"
+    },
+    {
+        "id": 173,
+        "name_common": "Cameroon",
+        "name_official": "Republic of Cameroon",
+        "coordinates": {
+            "latitude": 3.85,
+            "longitude": 11.5
+        },
+        "flag": "https://flagcdn.com/w320/cm.png",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "capital": "Yaound\u00e9",
+        "landlocked": false,
+        "area": 475442,
+        "population": 26545864,
+        "demonym": "Cameroonian"
+    },
+    {
+        "id": 105,
+        "name_common": "Canada",
+        "name_official": "Canada",
+        "coordinates": {
+            "latitude": 45.42,
+            "longitude": -75.7
+        },
+        "flag": "https://flagcdn.com/w320/ca.png",
+        "region": "Americas",
+        "subregion": "North America",
+        "capital": "Ottawa",
+        "landlocked": false,
+        "area": 9984670,
+        "population": 38005238,
+        "demonym": "Canadian"
+    },
+    {
+        "id": 125,
+        "name_common": "Cape Verde",
+        "name_official": "Republic of Cabo Verde",
+        "coordinates": {
+            "latitude": 14.92,
+            "longitude": -23.52
+        },
+        "flag": "https://flagcdn.com/w320/cv.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Praia",
+        "landlocked": false,
+        "area": 4033,
+        "population": 555988,
+        "demonym": "Cape Verdian"
+    },
+    {
+        "id": 49,
+        "name_common": "Caribbean Netherlands",
+        "name_official": "Bonaire, Sint Eustatius and Saba",
+        "coordinates": {
+            "latitude": 12.14,
+            "longitude": -68.27
+        },
+        "flag": "https://flagcdn.com/w320/bq.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Kralendijk",
+        "landlocked": false,
+        "area": 328,
+        "population": 25987,
+        "demonym": "Dutch"
+    },
+    {
+        "id": 152,
+        "name_common": "Cayman Islands",
+        "name_official": "Cayman Islands",
+        "coordinates": {
+            "latitude": 19.3,
+            "longitude": -81.38
+        },
+        "flag": "https://flagcdn.com/w320/ky.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "George Town",
+        "landlocked": false,
+        "area": 264,
+        "population": 65720,
+        "demonym": "Caymanian"
+    },
+    {
+        "id": 71,
+        "name_common": "Central African Republic",
+        "name_official": "Central African Republic",
+        "coordinates": {
+            "latitude": 4.37,
+            "longitude": 18.58
+        },
+        "flag": "https://flagcdn.com/w320/cf.png",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "capital": "Bangui",
+        "landlocked": true,
+        "area": 622984,
+        "population": 4829764,
+        "demonym": "Central African"
+    },
+    {
+        "id": 19,
+        "name_common": "Chad",
+        "name_official": "Republic of Chad",
+        "coordinates": {
+            "latitude": 12.1,
+            "longitude": 15.03
+        },
+        "flag": "https://flagcdn.com/w320/td.png",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "capital": "N'Djamena",
+        "landlocked": true,
+        "area": 1284000,
+        "population": 16425859,
+        "demonym": "Chadian"
+    },
+    {
+        "id": 60,
+        "name_common": "Chile",
+        "name_official": "Republic of Chile",
+        "coordinates": {
+            "latitude": -33.45,
+            "longitude": -70.67
+        },
+        "flag": "https://flagcdn.com/w320/cl.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Santiago",
+        "landlocked": false,
+        "area": 756102,
+        "population": 19116209,
+        "demonym": "Chilean"
+    },
+    {
+        "id": 95,
+        "name_common": "China",
+        "name_official": "People's Republic of China",
+        "coordinates": {
+            "latitude": 39.92,
+            "longitude": 116.38
+        },
+        "flag": "https://flagcdn.com/w320/cn.png",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "capital": "Beijing",
+        "landlocked": false,
+        "area": 9706961,
+        "population": 1402112000,
+        "demonym": "Chinese"
+    },
+    {
+        "id": 164,
+        "name_common": "Christmas Island",
+        "name_official": "Territory of Christmas Island",
+        "coordinates": {
+            "latitude": -10.42,
+            "longitude": 105.68
+        },
+        "flag": "https://flagcdn.com/w320/cx.png",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "capital": "Flying Fish Cove",
+        "landlocked": false,
+        "area": 135,
+        "population": 2072,
+        "demonym": "Christmas Islander"
+    },
+    {
+        "id": 150,
+        "name_common": "Cocos (Keeling) Islands",
+        "name_official": "Territory of the Cocos (Keeling) Islands",
+        "coordinates": {
+            "latitude": -12.17,
+            "longitude": 96.83
+        },
+        "flag": "https://flagcdn.com/w320/cc.png",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "capital": "West Island",
+        "landlocked": false,
+        "area": 14,
+        "population": 544,
+        "demonym": "Cocos Islander"
+    },
+    {
+        "id": 242,
+        "name_common": "Colombia",
+        "name_official": "Republic of Colombia",
+        "coordinates": {
+            "latitude": 4.71,
+            "longitude": -74.07
+        },
+        "flag": "https://flagcdn.com/w320/co.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Bogot\u00e1",
+        "landlocked": false,
+        "area": 1141748,
+        "population": 50882884,
+        "demonym": "Colombian"
+    },
+    {
+        "id": 218,
+        "name_common": "Comoros",
+        "name_official": "Union of the Comoros",
+        "coordinates": {
+            "latitude": -11.7,
+            "longitude": 43.23
+        },
+        "flag": "https://flagcdn.com/w320/km.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Moroni",
+        "landlocked": false,
+        "area": 1862,
+        "population": 869595,
+        "demonym": "Comoran"
+    },
+    {
+        "id": 170,
+        "name_common": "Cook Islands",
+        "name_official": "Cook Islands",
+        "coordinates": {
+            "latitude": -21.2,
+            "longitude": -159.77
+        },
+        "flag": "https://flagcdn.com/w320/ck.png",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "capital": "Avarua",
+        "landlocked": false,
+        "area": 236,
+        "population": 18100,
+        "demonym": "Cook Islander"
+    },
+    {
+        "id": 54,
+        "name_common": "Costa Rica",
+        "name_official": "Republic of Costa Rica",
+        "coordinates": {
+            "latitude": 9.93,
+            "longitude": -84.09
+        },
+        "flag": "https://flagcdn.com/w320/cr.png",
+        "region": "Americas",
+        "subregion": "Central America",
+        "capital": "San Jos\u00e9",
+        "landlocked": false,
+        "area": 51100,
+        "population": 5094114,
+        "demonym": "Costa Rican"
+    },
+    {
+        "id": 214,
+        "name_common": "Croatia",
+        "name_official": "Republic of Croatia",
+        "coordinates": {
+            "latitude": 45.8,
+            "longitude": 16.0
+        },
+        "flag": "https://flagcdn.com/w320/hr.png",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "capital": "Zagreb",
+        "landlocked": false,
+        "area": 56594,
+        "population": 4047200,
+        "demonym": "Croatian"
+    },
+    {
+        "id": 212,
+        "name_common": "Cuba",
+        "name_official": "Republic of Cuba",
+        "coordinates": {
+            "latitude": 23.12,
+            "longitude": -82.35
+        },
+        "flag": "https://flagcdn.com/w320/cu.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Havana",
+        "landlocked": false,
+        "area": 109884,
+        "population": 11326616,
+        "demonym": "Cuban"
+    },
+    {
+        "id": 97,
+        "name_common": "Cura\u00e7ao",
+        "name_official": "Country of Cura\u00e7ao",
+        "coordinates": {
+            "latitude": 12.1,
+            "longitude": -68.92
+        },
+        "flag": "https://flagcdn.com/w320/cw.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Willemstad",
+        "landlocked": false,
+        "area": 444,
+        "population": 155014,
+        "demonym": "Cura\u00e7aoan"
+    },
+    {
+        "id": 144,
+        "name_common": "Cyprus",
+        "name_official": "Republic of Cyprus",
+        "coordinates": {
+            "latitude": 35.17,
+            "longitude": 33.37
+        },
+        "flag": "https://flagcdn.com/w320/cy.png",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "capital": "Nicosia",
+        "landlocked": false,
+        "area": 9251,
+        "population": 1207361,
+        "demonym": "Cypriot"
+    },
+    {
+        "id": 23,
+        "name_common": "Czechia",
+        "name_official": "Czech Republic",
+        "coordinates": {
+            "latitude": 50.08,
+            "longitude": 14.47
+        },
+        "flag": "https://flagcdn.com/w320/cz.png",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "capital": "Prague",
+        "landlocked": true,
+        "area": 78865,
+        "population": 10698896,
+        "demonym": "Czech"
+    },
+    {
+        "id": 81,
+        "name_common": "DR Congo",
+        "name_official": "Democratic Republic of the Congo",
+        "coordinates": {
+            "latitude": -4.32,
+            "longitude": 15.3
+        },
+        "flag": "https://flagcdn.com/w320/cd.png",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "capital": "Kinshasa",
+        "landlocked": false,
+        "area": 2344858,
+        "population": 108407721,
+        "demonym": "Congolese"
+    },
+    {
+        "id": 174,
+        "name_common": "Denmark",
+        "name_official": "Kingdom of Denmark",
+        "coordinates": {
+            "latitude": 55.67,
+            "longitude": 12.58
+        },
+        "flag": "https://flagcdn.com/w320/dk.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Copenhagen",
+        "landlocked": false,
+        "area": 43094,
+        "population": 5831404,
+        "demonym": "Danish"
+    },
+    {
+        "id": 140,
+        "name_common": "Djibouti",
+        "name_official": "Republic of Djibouti",
+        "coordinates": {
+            "latitude": 11.58,
+            "longitude": 43.15
+        },
+        "flag": "https://flagcdn.com/w320/dj.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Djibouti",
+        "landlocked": false,
+        "area": 23200,
+        "population": 988002,
+        "demonym": "Djibouti"
+    },
+    {
+        "id": 200,
+        "name_common": "Dominica",
+        "name_official": "Commonwealth of Dominica",
+        "coordinates": {
+            "latitude": 15.3,
+            "longitude": -61.4
+        },
+        "flag": "https://flagcdn.com/w320/dm.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Roseau",
+        "landlocked": false,
+        "area": 751,
+        "population": 71991,
+        "demonym": "Dominican"
+    },
+    {
+        "id": 179,
+        "name_common": "Dominican Republic",
+        "name_official": "Dominican Republic",
+        "coordinates": {
+            "latitude": 18.47,
+            "longitude": -69.9
+        },
+        "flag": "https://flagcdn.com/w320/do.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Santo Domingo",
+        "landlocked": false,
+        "area": 48671,
+        "population": 10847904,
+        "demonym": "Dominican"
+    },
+    {
+        "id": 132,
+        "name_common": "Ecuador",
+        "name_official": "Republic of Ecuador",
+        "coordinates": {
+            "latitude": -0.22,
+            "longitude": -78.5
+        },
+        "flag": "https://flagcdn.com/w320/ec.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Quito",
+        "landlocked": false,
+        "area": 276841,
+        "population": 17643060,
+        "demonym": "Ecuadorean"
+    },
+    {
+        "id": 82,
+        "name_common": "Egypt",
+        "name_official": "Arab Republic of Egypt",
+        "coordinates": {
+            "latitude": 30.05,
+            "longitude": 31.25
+        },
+        "flag": "https://flagcdn.com/w320/eg.png",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "capital": "Cairo",
+        "landlocked": false,
+        "area": 1002450,
+        "population": 102334403,
+        "demonym": "Egyptian"
+    },
+    {
+        "id": 73,
+        "name_common": "El Salvador",
+        "name_official": "Republic of El Salvador",
+        "coordinates": {
+            "latitude": 13.7,
+            "longitude": -89.2
+        },
+        "flag": "https://flagcdn.com/w320/sv.png",
+        "region": "Americas",
+        "subregion": "Central America",
+        "capital": "San Salvador",
+        "landlocked": false,
+        "area": 21041,
+        "population": 6486201,
+        "demonym": "Salvadoran"
+    },
+    {
+        "id": 129,
+        "name_common": "Equatorial Guinea",
+        "name_official": "Republic of Equatorial Guinea",
+        "coordinates": {
+            "latitude": 3.75,
+            "longitude": 8.78
+        },
+        "flag": "https://flagcdn.com/w320/gq.png",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "capital": "Malabo",
+        "landlocked": false,
+        "area": 28051,
+        "population": 1402985,
+        "demonym": "Equatorial Guinean"
+    },
+    {
+        "id": 244,
+        "name_common": "Eritrea",
+        "name_official": "State of Eritrea",
+        "coordinates": {
+            "latitude": 15.33,
+            "longitude": 38.93
+        },
+        "flag": "https://flagcdn.com/w320/er.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Asmara",
+        "landlocked": false,
+        "area": 117600,
+        "population": 5352000,
+        "demonym": "Eritrean"
+    },
+    {
+        "id": 153,
+        "name_common": "Estonia",
+        "name_official": "Republic of Estonia",
+        "coordinates": {
+            "latitude": 59.43,
+            "longitude": 24.72
+        },
+        "flag": "https://flagcdn.com/w320/ee.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Tallinn",
+        "landlocked": false,
+        "area": 45227,
+        "population": 1331057,
+        "demonym": "Estonian"
+    },
+    {
+        "id": 11,
+        "name_common": "Eswatini",
+        "name_official": "Kingdom of Eswatini",
+        "coordinates": {
+            "latitude": -26.32,
+            "longitude": 31.13
+        },
+        "flag": "https://flagcdn.com/w320/sz.png",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "capital": "Mbabane",
+        "landlocked": true,
+        "area": 17364,
+        "population": 1160164,
+        "demonym": "Swazi"
+    },
+    {
+        "id": 9,
+        "name_common": "Ethiopia",
+        "name_official": "Federal Democratic Republic of Ethiopia",
+        "coordinates": {
+            "latitude": 9.03,
+            "longitude": 38.7
+        },
+        "flag": "https://flagcdn.com/w320/et.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Addis Ababa",
+        "landlocked": true,
+        "area": 1104300,
+        "population": 114963583,
+        "demonym": "Ethiopian"
+    },
+    {
+        "id": 52,
+        "name_common": "Falkland Islands",
+        "name_official": "Falkland Islands",
+        "coordinates": {
+            "latitude": -51.7,
+            "longitude": -57.85
+        },
+        "flag": "https://flagcdn.com/w320/fk.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Stanley",
+        "landlocked": false,
+        "area": 12173,
+        "population": 2563,
+        "demonym": "Falkland Islander"
+    },
+    {
+        "id": 83,
+        "name_common": "Faroe Islands",
+        "name_official": "Faroe Islands",
+        "coordinates": {
+            "latitude": 62.01,
+            "longitude": -6.77
+        },
+        "flag": "https://flagcdn.com/w320/fo.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "T\u00f3rshavn",
+        "landlocked": false,
+        "area": 1393,
+        "population": 48865,
+        "demonym": "Faroese"
+    },
+    {
+        "id": 133,
+        "name_common": "Fiji",
+        "name_official": "Republic of Fiji",
+        "coordinates": {
+            "latitude": -18.13,
+            "longitude": 178.42
+        },
+        "flag": "https://flagcdn.com/w320/fj.png",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "capital": "Suva",
+        "landlocked": false,
+        "area": 18272,
+        "population": 896444,
+        "demonym": "Fijian"
+    },
+    {
+        "id": 141,
+        "name_common": "Finland",
+        "name_official": "Republic of Finland",
+        "coordinates": {
+            "latitude": 60.17,
+            "longitude": 24.93
+        },
+        "flag": "https://flagcdn.com/w320/fi.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Helsinki",
+        "landlocked": false,
+        "area": 338424,
+        "population": 5530719,
+        "demonym": "Finnish"
+    },
+    {
+        "id": 177,
+        "name_common": "France",
+        "name_official": "French Republic",
+        "coordinates": {
+            "latitude": 48.87,
+            "longitude": 2.33
+        },
+        "flag": "https://flagcdn.com/w320/fr.png",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "capital": "Paris",
+        "landlocked": false,
+        "area": 551695,
+        "population": 67391582,
+        "demonym": "French"
+    },
+    {
+        "id": 151,
+        "name_common": "French Guiana",
+        "name_official": "Guiana",
+        "coordinates": {
+            "latitude": 4.94,
+            "longitude": -52.33
+        },
+        "flag": "https://flagcdn.com/w320/gf.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Cayenne",
+        "landlocked": false,
+        "area": 83534,
+        "population": 254541,
+        "demonym": "Guianan"
+    },
+    {
+        "id": 31,
+        "name_common": "French Polynesia",
+        "name_official": "French Polynesia",
+        "coordinates": {
+            "latitude": -17.53,
+            "longitude": -149.56
+        },
+        "flag": "https://flagcdn.com/w320/pf.png",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "capital": "Papeet\u0113",
+        "landlocked": false,
+        "area": 4167,
+        "population": 280904,
+        "demonym": "French Polynesian"
+    },
+    {
+        "id": 160,
+        "name_common": "French Southern and Antarctic Lands",
+        "name_official": "Territory of the French Southern and Antarctic Lands",
+        "coordinates": {
+            "latitude": 48.81,
+            "longitude": -1.4
+        },
+        "flag": "https://flagcdn.com/w320/tf.png",
+        "region": "Antarctic",
+        "subregion": "Antarctic",
+        "capital": "Port-aux-Fran\u00e7ais",
+        "landlocked": false,
+        "area": 7747,
+        "population": 400,
+        "demonym": "French"
+    },
+    {
+        "id": 184,
+        "name_common": "Gabon",
+        "name_official": "Gabonese Republic",
+        "coordinates": {
+            "latitude": 0.38,
+            "longitude": 9.45
+        },
+        "flag": "https://flagcdn.com/w320/ga.png",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "capital": "Libreville",
+        "landlocked": false,
+        "area": 267668,
+        "population": 2225728,
+        "demonym": "Gabonese"
+    },
+    {
+        "id": 119,
+        "name_common": "Gambia",
+        "name_official": "Republic of the Gambia",
+        "coordinates": {
+            "latitude": 13.45,
+            "longitude": -16.57
+        },
+        "flag": "https://flagcdn.com/w320/gm.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Banjul",
+        "landlocked": false,
+        "area": 10689,
+        "population": 2416664,
+        "demonym": "Gambian"
+    },
+    {
+        "id": 248,
+        "name_common": "Georgia",
+        "name_official": "Georgia",
+        "coordinates": {
+            "latitude": 41.68,
+            "longitude": 44.83
+        },
+        "flag": "https://flagcdn.com/w320/ge.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Tbilisi",
+        "landlocked": false,
+        "area": 69700,
+        "population": 3714000,
+        "demonym": "Georgian"
+    },
+    {
+        "id": 113,
+        "name_common": "Germany",
+        "name_official": "Federal Republic of Germany",
+        "coordinates": {
+            "latitude": 52.52,
+            "longitude": 13.4
+        },
+        "flag": "https://flagcdn.com/w320/de.png",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "capital": "Berlin",
+        "landlocked": false,
+        "area": 357114,
+        "population": 83240525,
+        "demonym": "German"
+    },
+    {
+        "id": 12,
+        "name_common": "Ghana",
+        "name_official": "Republic of Ghana",
+        "coordinates": {
+            "latitude": 5.55,
+            "longitude": -0.22
+        },
+        "flag": "https://flagcdn.com/w320/gh.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Accra",
+        "landlocked": false,
+        "area": 238533,
+        "population": 31072945,
+        "demonym": "Ghanaian"
+    },
+    {
+        "id": 37,
+        "name_common": "Gibraltar",
+        "name_official": "Gibraltar",
+        "coordinates": {
+            "latitude": 36.13,
+            "longitude": -5.35
+        },
+        "flag": "https://flagcdn.com/w320/gi.png",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "capital": "Gibraltar",
+        "landlocked": false,
+        "area": 6,
+        "population": 33691,
+        "demonym": "Gibraltar"
+    },
+    {
+        "id": 87,
+        "name_common": "Greece",
+        "name_official": "Hellenic Republic",
+        "coordinates": {
+            "latitude": 37.98,
+            "longitude": 23.73
+        },
+        "flag": "https://flagcdn.com/w320/gr.png",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "capital": "Athens",
+        "landlocked": false,
+        "area": 131990,
+        "population": 10715549,
+        "demonym": "Greek"
+    },
+    {
+        "id": 63,
+        "name_common": "Greenland",
+        "name_official": "Greenland",
+        "coordinates": {
+            "latitude": 64.18,
+            "longitude": -51.75
+        },
+        "flag": "https://flagcdn.com/w320/gl.png",
+        "region": "Americas",
+        "subregion": "North America",
+        "capital": "Nuuk",
+        "landlocked": false,
+        "area": 2166086,
+        "population": 56367,
+        "demonym": "Greenlandic"
+    },
+    {
+        "id": 216,
+        "name_common": "Grenada",
+        "name_official": "Grenada",
+        "coordinates": {
+            "latitude": 32.38,
+            "longitude": -64.68
+        },
+        "flag": "https://flagcdn.com/w320/gd.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "St. George's",
+        "landlocked": false,
+        "area": 344,
+        "population": 112519,
+        "demonym": "Grenadian"
+    },
+    {
+        "id": 240,
+        "name_common": "Guadeloupe",
+        "name_official": "Guadeloupe",
+        "coordinates": {
+            "latitude": 16.03,
+            "longitude": -61.73
+        },
+        "flag": "https://flagcdn.com/w320/gp.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Basse-Terre",
+        "landlocked": false,
+        "area": 1628,
+        "population": 400132,
+        "demonym": "Guadeloupian"
+    },
+    {
+        "id": 146,
+        "name_common": "Guam",
+        "name_official": "Guam",
+        "coordinates": {
+            "latitude": 13.48,
+            "longitude": 144.75
+        },
+        "flag": "https://flagcdn.com/w320/gu.png",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "capital": "Hag\u00e5t\u00f1a",
+        "landlocked": false,
+        "area": 549,
+        "population": 168783,
+        "demonym": "Guamanian"
+    },
+    {
+        "id": 185,
+        "name_common": "Guatemala",
+        "name_official": "Republic of Guatemala",
+        "coordinates": {
+            "latitude": 14.62,
+            "longitude": -90.52
+        },
+        "flag": "https://flagcdn.com/w320/gt.png",
+        "region": "Americas",
+        "subregion": "Central America",
+        "capital": "Guatemala City",
+        "landlocked": false,
+        "area": 108889,
+        "population": 16858333,
+        "demonym": "Guatemalan"
+    },
+    {
+        "id": 101,
+        "name_common": "Guernsey",
+        "name_official": "Bailiwick of Guernsey",
+        "coordinates": {
+            "latitude": 49.45,
+            "longitude": -2.54
+        },
+        "flag": "https://flagcdn.com/w320/gg.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "St. Peter Port",
+        "landlocked": false,
+        "area": 78,
+        "population": 62999,
+        "demonym": "Channel Islander"
+    },
+    {
+        "id": 138,
+        "name_common": "Guinea",
+        "name_official": "Republic of Guinea",
+        "coordinates": {
+            "latitude": 9.5,
+            "longitude": -13.7
+        },
+        "flag": "https://flagcdn.com/w320/gn.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Conakry",
+        "landlocked": false,
+        "area": 245857,
+        "population": 13132792,
+        "demonym": "Guinean"
+    },
+    {
+        "id": 126,
+        "name_common": "Guinea-Bissau",
+        "name_official": "Republic of Guinea-Bissau",
+        "coordinates": {
+            "latitude": 11.85,
+            "longitude": -15.58
+        },
+        "flag": "https://flagcdn.com/w320/gw.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Bissau",
+        "landlocked": false,
+        "area": 36125,
+        "population": 1967998,
+        "demonym": "Guinea-Bissauan"
+    },
+    {
+        "id": 110,
+        "name_common": "Guyana",
+        "name_official": "Co-operative Republic of Guyana",
+        "coordinates": {
+            "latitude": 6.8,
+            "longitude": -58.15
+        },
+        "flag": "https://flagcdn.com/w320/gy.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Georgetown",
+        "landlocked": false,
+        "area": 214969,
+        "population": 786559,
+        "demonym": "Guyanese"
+    },
+    {
+        "id": 109,
+        "name_common": "Haiti",
+        "name_official": "Republic of Haiti",
+        "coordinates": {
+            "latitude": 18.53,
+            "longitude": -72.33
+        },
+        "flag": "https://flagcdn.com/w320/ht.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Port-au-Prince",
+        "landlocked": false,
+        "area": 27750,
+        "population": 11402533,
+        "demonym": "Haitian"
+    },
+    {
+        "id": 106,
+        "name_common": "Heard Island and McDonald Islands",
+        "name_official": "Heard Island and McDonald Islands",
+        "coordinates": {
+            "latitude": 53.0818,
+            "longitude": 73.5042
+        },
+        "flag": "https://flagcdn.com/w320/hm.png",
+        "region": "Antarctic",
+        "subregion": "Antarctic",
+        "capital": "N/A",
+        "landlocked": false,
+        "area": 412,
+        "population": 0,
+        "demonym": "Heard and McDonald Islander"
+    },
+    {
+        "id": 44,
+        "name_common": "Honduras",
+        "name_official": "Republic of Honduras",
+        "coordinates": {
+            "latitude": 14.1,
+            "longitude": -87.22
+        },
+        "flag": "https://flagcdn.com/w320/hn.png",
+        "region": "Americas",
+        "subregion": "Central America",
+        "capital": "Tegucigalpa",
+        "landlocked": false,
+        "area": 112492,
+        "population": 9904608,
+        "demonym": "Honduran"
+    },
+    {
+        "id": 222,
+        "name_common": "Hungary",
+        "name_official": "Hungary",
+        "coordinates": {
+            "latitude": 47.5,
+            "longitude": 19.08
+        },
+        "flag": "https://flagcdn.com/w320/hu.png",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "capital": "Budapest",
+        "landlocked": true,
+        "area": 93028,
+        "population": 9749763,
+        "demonym": "Hungarian"
+    },
+    {
+        "id": 33,
+        "name_common": "Iceland",
+        "name_official": "Iceland",
+        "coordinates": {
+            "latitude": 64.15,
+            "longitude": -21.95
+        },
+        "flag": "https://flagcdn.com/w320/is.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Reykjavik",
+        "landlocked": false,
+        "area": 103000,
+        "population": 366425,
+        "demonym": "Icelander"
+    },
+    {
+        "id": 10,
+        "name_common": "India",
+        "name_official": "Republic of India",
+        "coordinates": {
+            "latitude": 28.6,
+            "longitude": 77.2
+        },
+        "flag": "https://flagcdn.com/w320/in.png",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "capital": "New Delhi",
+        "landlocked": false,
+        "area": 3287590,
+        "population": 1380004385,
+        "demonym": "Indian"
+    },
+    {
+        "id": 202,
+        "name_common": "Indonesia",
+        "name_official": "Republic of Indonesia",
+        "coordinates": {
+            "latitude": -6.17,
+            "longitude": 106.82
+        },
+        "flag": "https://flagcdn.com/w320/id.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Jakarta",
+        "landlocked": false,
+        "area": 1904569,
+        "population": 273523621,
+        "demonym": "Indonesian"
+    },
+    {
+        "id": 135,
+        "name_common": "Iran",
+        "name_official": "Islamic Republic of Iran",
+        "coordinates": {
+            "latitude": 35.7,
+            "longitude": 51.42
+        },
+        "flag": "https://flagcdn.com/w320/ir.png",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "capital": "Tehran",
+        "landlocked": false,
+        "area": 1648195,
+        "population": 83992953,
+        "demonym": "Iranian"
+    },
+    {
+        "id": 182,
+        "name_common": "Iraq",
+        "name_official": "Republic of Iraq",
+        "coordinates": {
+            "latitude": 33.33,
+            "longitude": 44.4
+        },
+        "flag": "https://flagcdn.com/w320/iq.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Baghdad",
+        "landlocked": false,
+        "area": 438317,
+        "population": 40222503,
+        "demonym": "Iraqi"
+    },
+    {
+        "id": 118,
+        "name_common": "Ireland",
+        "name_official": "Republic of Ireland",
+        "coordinates": {
+            "latitude": 53.32,
+            "longitude": -6.23
+        },
+        "flag": "https://flagcdn.com/w320/ie.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Dublin",
+        "landlocked": false,
+        "area": 70273,
+        "population": 4994724,
+        "demonym": "Irish"
+    },
+    {
+        "id": 196,
+        "name_common": "Isle of Man",
+        "name_official": "Isle of Man",
+        "coordinates": {
+            "latitude": 54.15,
+            "longitude": -4.48
+        },
+        "flag": "https://flagcdn.com/w320/im.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Douglas",
+        "landlocked": false,
+        "area": 572,
+        "population": 85032,
+        "demonym": "Manx"
+    },
+    {
+        "id": 28,
+        "name_common": "Israel",
+        "name_official": "State of Israel",
+        "coordinates": {
+            "latitude": 31.77,
+            "longitude": 35.23
+        },
+        "flag": "https://flagcdn.com/w320/il.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Jerusalem",
+        "landlocked": false,
+        "area": 20770,
+        "population": 9216900,
+        "demonym": "Israeli"
+    },
+    {
+        "id": 42,
+        "name_common": "Italy",
+        "name_official": "Italian Republic",
+        "coordinates": {
+            "latitude": 41.9,
+            "longitude": 12.48
+        },
+        "flag": "https://flagcdn.com/w320/it.png",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "capital": "Rome",
+        "landlocked": false,
+        "area": 301336,
+        "population": 59554023,
+        "demonym": "Italian"
+    },
+    {
+        "id": 136,
+        "name_common": "Ivory Coast",
+        "name_official": "Republic of C\u00f4te d'Ivoire",
+        "coordinates": {
+            "latitude": 6.82,
+            "longitude": -5.27
+        },
+        "flag": "https://flagcdn.com/w320/ci.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Yamoussoukro",
+        "landlocked": false,
+        "area": 322463,
+        "population": 26378275,
+        "demonym": "Ivorian"
+    },
+    {
+        "id": 114,
+        "name_common": "Jamaica",
+        "name_official": "Jamaica",
+        "coordinates": {
+            "latitude": 17.99702,
+            "longitude": -76.79358
+        },
+        "flag": "https://flagcdn.com/w320/jm.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Kingston",
+        "landlocked": false,
+        "area": 10991,
+        "population": 2961161,
+        "demonym": "Jamaican"
+    },
+    {
+        "id": 14,
+        "name_common": "Japan",
+        "name_official": "Japan",
+        "coordinates": {
+            "latitude": 35.68,
+            "longitude": 139.75
+        },
+        "flag": "https://flagcdn.com/w320/jp.png",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "capital": "Tokyo",
+        "landlocked": false,
+        "area": 377930,
+        "population": 125836021,
+        "demonym": "Japanese"
+    },
+    {
+        "id": 21,
+        "name_common": "Jersey",
+        "name_official": "Bailiwick of Jersey",
+        "coordinates": {
+            "latitude": 49.18,
+            "longitude": -2.1
+        },
+        "flag": "https://flagcdn.com/w320/je.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Saint Helier",
+        "landlocked": false,
+        "area": 116,
+        "population": 100800,
+        "demonym": "Channel Islander"
+    },
+    {
+        "id": 221,
+        "name_common": "Jordan",
+        "name_official": "Hashemite Kingdom of Jordan",
+        "coordinates": {
+            "latitude": 31.95,
+            "longitude": 35.93
+        },
+        "flag": "https://flagcdn.com/w320/jo.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Amman",
+        "landlocked": false,
+        "area": 89342,
+        "population": 10203140,
+        "demonym": "Jordanian"
+    },
+    {
+        "id": 154,
+        "name_common": "Kazakhstan",
+        "name_official": "Republic of Kazakhstan",
+        "coordinates": {
+            "latitude": 51.16,
+            "longitude": 71.45
+        },
+        "flag": "https://flagcdn.com/w320/kz.png",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "capital": "Nur-Sultan",
+        "landlocked": true,
+        "area": 2724900,
+        "population": 18754440,
+        "demonym": "Kazakhstani"
+    },
+    {
+        "id": 123,
+        "name_common": "Kenya",
+        "name_official": "Republic of Kenya",
+        "coordinates": {
+            "latitude": -1.28,
+            "longitude": 36.82
+        },
+        "flag": "https://flagcdn.com/w320/ke.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Nairobi",
+        "landlocked": false,
+        "area": 580367,
+        "population": 53771300,
+        "demonym": "Kenyan"
+    },
+    {
+        "id": 176,
+        "name_common": "Kiribati",
+        "name_official": "Independent and Sovereign Republic of Kiribati",
+        "coordinates": {
+            "latitude": 1.33,
+            "longitude": 172.98
+        },
+        "flag": "https://flagcdn.com/w320/ki.png",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "capital": "South Tarawa",
+        "landlocked": false,
+        "area": 811,
+        "population": 119446,
+        "demonym": "I-Kiribati"
+    },
+    {
+        "id": 227,
+        "name_common": "Kosovo",
+        "name_official": "Republic of Kosovo",
+        "coordinates": {
+            "latitude": 42.67,
+            "longitude": 21.17
+        },
+        "flag": "https://flagcdn.com/w320/xk.png",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "capital": "Pristina",
+        "landlocked": true,
+        "area": 10908,
+        "population": 1775378,
+        "demonym": "Kosovar"
+    },
+    {
+        "id": 103,
+        "name_common": "Kuwait",
+        "name_official": "State of Kuwait",
+        "coordinates": {
+            "latitude": 29.37,
+            "longitude": 47.97
+        },
+        "flag": "https://flagcdn.com/w320/kw.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Kuwait City",
+        "landlocked": false,
+        "area": 17818,
+        "population": 4270563,
+        "demonym": "Kuwaiti"
+    },
+    {
+        "id": 116,
+        "name_common": "Kyrgyzstan",
+        "name_official": "Kyrgyz Republic",
+        "coordinates": {
+            "latitude": 42.87,
+            "longitude": 74.6
+        },
+        "flag": "https://flagcdn.com/w320/kg.png",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "capital": "Bishkek",
+        "landlocked": true,
+        "area": 199951,
+        "population": 6591600,
+        "demonym": "Kirghiz"
+    },
+    {
+        "id": 134,
+        "name_common": "Laos",
+        "name_official": "Lao People's Democratic Republic",
+        "coordinates": {
+            "latitude": 17.97,
+            "longitude": 102.6
+        },
+        "flag": "https://flagcdn.com/w320/la.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Vientiane",
+        "landlocked": true,
+        "area": 236800,
+        "population": 7275556,
+        "demonym": "Laotian"
+    },
+    {
+        "id": 50,
+        "name_common": "Latvia",
+        "name_official": "Republic of Latvia",
+        "coordinates": {
+            "latitude": 56.95,
+            "longitude": 24.1
+        },
+        "flag": "https://flagcdn.com/w320/lv.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Riga",
+        "landlocked": false,
+        "area": 64559,
+        "population": 1901548,
+        "demonym": "Latvian"
+    },
+    {
+        "id": 204,
+        "name_common": "Lebanon",
+        "name_official": "Lebanese Republic",
+        "coordinates": {
+            "latitude": 33.87,
+            "longitude": 35.5
+        },
+        "flag": "https://flagcdn.com/w320/lb.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Beirut",
+        "landlocked": false,
+        "area": 10452,
+        "population": 6825442,
+        "demonym": "Lebanese"
+    },
+    {
+        "id": 159,
+        "name_common": "Lesotho",
+        "name_official": "Kingdom of Lesotho",
+        "coordinates": {
+            "latitude": -29.32,
+            "longitude": 27.48
+        },
+        "flag": "https://flagcdn.com/w320/ls.png",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "capital": "Maseru",
+        "landlocked": true,
+        "area": 30355,
+        "population": 2142252,
+        "demonym": "Mosotho"
+    },
+    {
+        "id": 46,
+        "name_common": "Liberia",
+        "name_official": "Republic of Liberia",
+        "coordinates": {
+            "latitude": 6.3,
+            "longitude": -10.8
+        },
+        "flag": "https://flagcdn.com/w320/lr.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Monrovia",
+        "landlocked": false,
+        "area": 111369,
+        "population": 5057677,
+        "demonym": "Liberian"
+    },
+    {
+        "id": 208,
+        "name_common": "Libya",
+        "name_official": "State of Libya",
+        "coordinates": {
+            "latitude": 32.88,
+            "longitude": 13.17
+        },
+        "flag": "https://flagcdn.com/w320/ly.png",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "capital": "Tripoli",
+        "landlocked": false,
+        "area": 1759540,
+        "population": 6871287,
+        "demonym": "Libyan"
+    },
+    {
+        "id": 29,
+        "name_common": "Liechtenstein",
+        "name_official": "Principality of Liechtenstein",
+        "coordinates": {
+            "latitude": 47.13,
+            "longitude": 9.52
+        },
+        "flag": "https://flagcdn.com/w320/li.png",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "capital": "Vaduz",
+        "landlocked": true,
+        "area": 160,
+        "population": 38137,
+        "demonym": "Liechtensteiner"
+    },
+    {
+        "id": 187,
+        "name_common": "Lithuania",
+        "name_official": "Republic of Lithuania",
+        "coordinates": {
+            "latitude": 54.68,
+            "longitude": 25.32
+        },
+        "flag": "https://flagcdn.com/w320/lt.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Vilnius",
+        "landlocked": false,
+        "area": 65300,
+        "population": 2794700,
+        "demonym": "Lithuanian"
+    },
+    {
+        "id": 192,
+        "name_common": "Luxembourg",
+        "name_official": "Grand Duchy of Luxembourg",
+        "coordinates": {
+            "latitude": 49.6,
+            "longitude": 6.12
+        },
+        "flag": "https://flagcdn.com/w320/lu.png",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "capital": "Luxembourg",
+        "landlocked": true,
+        "area": 2586,
+        "population": 632275,
+        "demonym": "Luxembourger"
+    },
+    {
+        "id": 219,
+        "name_common": "Madagascar",
+        "name_official": "Republic of Madagascar",
+        "coordinates": {
+            "latitude": -18.92,
+            "longitude": 47.52
+        },
+        "flag": "https://flagcdn.com/w320/mg.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Antananarivo",
+        "landlocked": false,
+        "area": 587041,
+        "population": 27691019,
+        "demonym": "Malagasy"
+    },
+    {
+        "id": 61,
+        "name_common": "Malawi",
+        "name_official": "Republic of Malawi",
+        "coordinates": {
+            "latitude": -13.97,
+            "longitude": 33.78
+        },
+        "flag": "https://flagcdn.com/w320/mw.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Lilongwe",
+        "landlocked": true,
+        "area": 118484,
+        "population": 19129955,
+        "demonym": "Malawian"
+    },
+    {
+        "id": 77,
+        "name_common": "Malaysia",
+        "name_official": "Malaysia",
+        "coordinates": {
+            "latitude": 3.17,
+            "longitude": 101.7
+        },
+        "flag": "https://flagcdn.com/w320/my.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Kuala Lumpur",
+        "landlocked": false,
+        "area": 330803,
+        "population": 32365998,
+        "demonym": "Malaysian"
+    },
+    {
+        "id": 107,
+        "name_common": "Maldives",
+        "name_official": "Republic of the Maldives",
+        "coordinates": {
+            "latitude": 4.17,
+            "longitude": 73.51
+        },
+        "flag": "https://flagcdn.com/w320/mv.png",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "capital": "Mal\u00e9",
+        "landlocked": false,
+        "area": 300,
+        "population": 540542,
+        "demonym": "Maldivan"
+    },
+    {
+        "id": 142,
+        "name_common": "Mali",
+        "name_official": "Republic of Mali",
+        "coordinates": {
+            "latitude": 12.65,
+            "longitude": -8.0
+        },
+        "flag": "https://flagcdn.com/w320/ml.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Bamako",
+        "landlocked": true,
+        "area": 1240192,
+        "population": 20250834,
+        "demonym": "Malian"
+    },
+    {
+        "id": 45,
+        "name_common": "Malta",
+        "name_official": "Republic of Malta",
+        "coordinates": {
+            "latitude": 35.88,
+            "longitude": 14.5
+        },
+        "flag": "https://flagcdn.com/w320/mt.png",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "capital": "Valletta",
+        "landlocked": false,
+        "area": 316,
+        "population": 525285,
+        "demonym": "Maltese"
+    },
+    {
+        "id": 217,
+        "name_common": "Marshall Islands",
+        "name_official": "Republic of the Marshall Islands",
+        "coordinates": {
+            "latitude": 7.1,
+            "longitude": 171.38
+        },
+        "flag": "https://flagcdn.com/w320/mh.png",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "capital": "Majuro",
+        "landlocked": false,
+        "area": 181,
+        "population": 59194,
+        "demonym": "Marshallese"
+    },
+    {
+        "id": 2,
+        "name_common": "Martinique",
+        "name_official": "Martinique",
+        "coordinates": {
+            "latitude": 14.6,
+            "longitude": -61.08
+        },
+        "flag": "https://flagcdn.com/w320/mq.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Fort-de-France",
+        "landlocked": false,
+        "area": 1128,
+        "population": 378243,
+        "demonym": "Martinican"
+    },
+    {
+        "id": 215,
+        "name_common": "Mauritania",
+        "name_official": "Islamic Republic of Mauritania",
+        "coordinates": {
+            "latitude": 18.07,
+            "longitude": -15.97
+        },
+        "flag": "https://flagcdn.com/w320/mr.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Nouakchott",
+        "landlocked": false,
+        "area": 1030700,
+        "population": 4649660,
+        "demonym": "Mauritanian"
+    },
+    {
+        "id": 32,
+        "name_common": "Mauritius",
+        "name_official": "Republic of Mauritius",
+        "coordinates": {
+            "latitude": -20.15,
+            "longitude": 57.48
+        },
+        "flag": "https://flagcdn.com/w320/mu.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Port Louis",
+        "landlocked": false,
+        "area": 2040,
+        "population": 1265740,
+        "demonym": "Mauritian"
+    },
+    {
+        "id": 90,
+        "name_common": "Mayotte",
+        "name_official": "Department of Mayotte",
+        "coordinates": {
+            "latitude": -12.78,
+            "longitude": 45.22
+        },
+        "flag": "https://flagcdn.com/w320/yt.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Mamoudzou",
+        "landlocked": false,
+        "area": 374,
+        "population": 226915,
+        "demonym": "Mahoran"
+    },
+    {
+        "id": 70,
+        "name_common": "Mexico",
+        "name_official": "United Mexican States",
+        "coordinates": {
+            "latitude": 19.43,
+            "longitude": -99.13
+        },
+        "flag": "https://flagcdn.com/w320/mx.png",
+        "region": "Americas",
+        "subregion": "North America",
+        "capital": "Mexico City",
+        "landlocked": false,
+        "area": 1964375,
+        "population": 128932753,
+        "demonym": "Mexican"
+    },
+    {
+        "id": 112,
+        "name_common": "Micronesia",
+        "name_official": "Federated States of Micronesia",
+        "coordinates": {
+            "latitude": 6.92,
+            "longitude": 158.15
+        },
+        "flag": "https://flagcdn.com/w320/fm.png",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "capital": "Palikir",
+        "landlocked": false,
+        "area": 702,
+        "population": 115021,
+        "demonym": "Micronesian"
+    },
+    {
+        "id": 181,
+        "name_common": "Moldova",
+        "name_official": "Republic of Moldova",
+        "coordinates": {
+            "latitude": 47.01,
+            "longitude": 28.9
+        },
+        "flag": "https://flagcdn.com/w320/md.png",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "capital": "Chi\u0219in\u0103u",
+        "landlocked": true,
+        "area": 33846,
+        "population": 2617820,
+        "demonym": "Moldovan"
+    },
+    {
+        "id": 104,
+        "name_common": "Monaco",
+        "name_official": "Principality of Monaco",
+        "coordinates": {
+            "latitude": 43.73,
+            "longitude": 7.42
+        },
+        "flag": "https://flagcdn.com/w320/mc.png",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "capital": "Monaco",
+        "landlocked": false,
+        "area": 2,
+        "population": 39244,
+        "demonym": "Monegasque"
+    },
+    {
+        "id": 198,
+        "name_common": "Mongolia",
+        "name_official": "Mongolia",
+        "coordinates": {
+            "latitude": 47.92,
+            "longitude": 106.91
+        },
+        "flag": "https://flagcdn.com/w320/mn.png",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "capital": "Ulan Bator",
+        "landlocked": true,
+        "area": 1564110,
+        "population": 3278292,
+        "demonym": "Mongolian"
+    },
+    {
+        "id": 1,
+        "name_common": "Montenegro",
+        "name_official": "Montenegro",
+        "coordinates": {
+            "latitude": 42.43,
+            "longitude": 19.27
+        },
+        "flag": "https://flagcdn.com/w320/me.png",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "capital": "Podgorica",
+        "landlocked": false,
+        "area": 13812,
+        "population": 621718,
+        "demonym": "Montenegrin"
+    },
+    {
+        "id": 7,
+        "name_common": "Montserrat",
+        "name_official": "Montserrat",
+        "coordinates": {
+            "latitude": 16.7,
+            "longitude": -62.22
+        },
+        "flag": "https://flagcdn.com/w320/ms.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Plymouth",
+        "landlocked": false,
+        "area": 102,
+        "population": 4922,
+        "demonym": "Montserratian"
+    },
+    {
+        "id": 22,
+        "name_common": "Morocco",
+        "name_official": "Kingdom of Morocco",
+        "coordinates": {
+            "latitude": 34.02,
+            "longitude": -6.82
+        },
+        "flag": "https://flagcdn.com/w320/ma.png",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "capital": "Rabat",
+        "landlocked": false,
+        "area": 446550,
+        "population": 36910558,
+        "demonym": "Moroccan"
+    },
+    {
+        "id": 98,
+        "name_common": "Mozambique",
+        "name_official": "Republic of Mozambique",
+        "coordinates": {
+            "latitude": -25.95,
+            "longitude": 32.58
+        },
+        "flag": "https://flagcdn.com/w320/mz.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Maputo",
+        "landlocked": false,
+        "area": 801590,
+        "population": 31255435,
+        "demonym": "Mozambican"
+    },
+    {
+        "id": 117,
+        "name_common": "Myanmar",
+        "name_official": "Republic of the Union of Myanmar",
+        "coordinates": {
+            "latitude": 19.76,
+            "longitude": 96.07
+        },
+        "flag": "https://flagcdn.com/w320/mm.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Naypyidaw",
+        "landlocked": false,
+        "area": 676578,
+        "population": 54409794,
+        "demonym": "Burmese"
+    },
+    {
+        "id": 230,
+        "name_common": "Namibia",
+        "name_official": "Republic of Namibia",
+        "coordinates": {
+            "latitude": -22.57,
+            "longitude": 17.08
+        },
+        "flag": "https://flagcdn.com/w320/na.png",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "capital": "Windhoek",
+        "landlocked": false,
+        "area": 825615,
+        "population": 2540916,
+        "demonym": "Namibian"
+    },
+    {
+        "id": 241,
+        "name_common": "Nauru",
+        "name_official": "Republic of Nauru",
+        "coordinates": {
+            "latitude": -0.55,
+            "longitude": 166.92
+        },
+        "flag": "https://flagcdn.com/w320/nr.png",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "capital": "Yaren",
+        "landlocked": false,
+        "area": 21,
+        "population": 10834,
+        "demonym": "Nauruan"
+    },
+    {
+        "id": 228,
+        "name_common": "Nepal",
+        "name_official": "Federal Democratic Republic of Nepal",
+        "coordinates": {
+            "latitude": 27.72,
+            "longitude": 85.32
+        },
+        "flag": "https://flagcdn.com/w320/np.png",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "capital": "Kathmandu",
+        "landlocked": true,
+        "area": 147181,
+        "population": 29136808,
+        "demonym": "Nepalese"
+    },
+    {
+        "id": 127,
+        "name_common": "Netherlands",
+        "name_official": "Kingdom of the Netherlands",
+        "coordinates": {
+            "latitude": 52.35,
+            "longitude": 4.92
+        },
+        "flag": "https://flagcdn.com/w320/nl.png",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "capital": "Amsterdam",
+        "landlocked": false,
+        "area": 41850,
+        "population": 16655799,
+        "demonym": "Dutch"
+    },
+    {
+        "id": 189,
+        "name_common": "New Caledonia",
+        "name_official": "New Caledonia",
+        "coordinates": {
+            "latitude": -22.27,
+            "longitude": 166.45
+        },
+        "flag": "https://flagcdn.com/w320/nc.png",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "capital": "Noum\u00e9a",
+        "landlocked": false,
+        "area": 18575,
+        "population": 271960,
+        "demonym": "New Caledonian"
+    },
+    {
+        "id": 94,
+        "name_common": "New Zealand",
+        "name_official": "New Zealand",
+        "coordinates": {
+            "latitude": -41.3,
+            "longitude": 174.78
+        },
+        "flag": "https://flagcdn.com/w320/nz.png",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "capital": "Wellington",
+        "landlocked": false,
+        "area": 270467,
+        "population": 5084300,
+        "demonym": "New Zealander"
+    },
+    {
+        "id": 72,
+        "name_common": "Nicaragua",
+        "name_official": "Republic of Nicaragua",
+        "coordinates": {
+            "latitude": 12.13,
+            "longitude": -86.25
+        },
+        "flag": "https://flagcdn.com/w320/ni.png",
+        "region": "Americas",
+        "subregion": "Central America",
+        "capital": "Managua",
+        "landlocked": false,
+        "area": 130373,
+        "population": 6624554,
+        "demonym": "Nicaraguan"
+    },
+    {
+        "id": 232,
+        "name_common": "Niger",
+        "name_official": "Republic of Niger",
+        "coordinates": {
+            "latitude": 13.52,
+            "longitude": 2.12
+        },
+        "flag": "https://flagcdn.com/w320/ne.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Niamey",
+        "landlocked": true,
+        "area": 1267000,
+        "population": 24206636,
+        "demonym": "Nigerien"
+    },
+    {
+        "id": 74,
+        "name_common": "Nigeria",
+        "name_official": "Federal Republic of Nigeria",
+        "coordinates": {
+            "latitude": 9.08,
+            "longitude": 7.53
+        },
+        "flag": "https://flagcdn.com/w320/ng.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Abuja",
+        "landlocked": false,
+        "area": 923768,
+        "population": 206139587,
+        "demonym": "Nigerian"
+    },
+    {
+        "id": 17,
+        "name_common": "Niue",
+        "name_official": "Niue",
+        "coordinates": {
+            "latitude": -19.02,
+            "longitude": -169.92
+        },
+        "flag": "https://flagcdn.com/w320/nu.png",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "capital": "Alofi",
+        "landlocked": false,
+        "area": 260,
+        "population": 1470,
+        "demonym": "Niuean"
+    },
+    {
+        "id": 91,
+        "name_common": "Norfolk Island",
+        "name_official": "Territory of Norfolk Island",
+        "coordinates": {
+            "latitude": -29.05,
+            "longitude": 167.97
+        },
+        "flag": "https://flagcdn.com/w320/nf.png",
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand",
+        "capital": "Kingston",
+        "landlocked": false,
+        "area": 36,
+        "population": 2302,
+        "demonym": "Norfolk Islander"
+    },
+    {
+        "id": 245,
+        "name_common": "North Korea",
+        "name_official": "Democratic People's Republic of Korea",
+        "coordinates": {
+            "latitude": 39.02,
+            "longitude": 125.75
+        },
+        "flag": "https://flagcdn.com/w320/kp.png",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "capital": "Pyongyang",
+        "landlocked": false,
+        "area": 120538,
+        "population": 25778815,
+        "demonym": "North Korean"
+    },
+    {
+        "id": 84,
+        "name_common": "North Macedonia",
+        "name_official": "Republic of North Macedonia",
+        "coordinates": {
+            "latitude": 42.0,
+            "longitude": 21.43
+        },
+        "flag": "https://flagcdn.com/w320/mk.png",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "capital": "Skopje",
+        "landlocked": true,
+        "area": 25713,
+        "population": 2077132,
+        "demonym": "Macedonian"
+    },
+    {
+        "id": 93,
+        "name_common": "Northern Mariana Islands",
+        "name_official": "Commonwealth of the Northern Mariana Islands",
+        "coordinates": {
+            "latitude": 15.2,
+            "longitude": 145.75
+        },
+        "flag": "https://flagcdn.com/w320/mp.png",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "capital": "Saipan",
+        "landlocked": false,
+        "area": 464,
+        "population": 57557,
+        "demonym": "American"
+    },
+    {
+        "id": 183,
+        "name_common": "Norway",
+        "name_official": "Kingdom of Norway",
+        "coordinates": {
+            "latitude": 59.92,
+            "longitude": 10.75
+        },
+        "flag": "https://flagcdn.com/w320/no.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Oslo",
+        "landlocked": false,
+        "area": 323802,
+        "population": 5379475,
+        "demonym": "Norwegian"
+    },
+    {
+        "id": 15,
+        "name_common": "Oman",
+        "name_official": "Sultanate of Oman",
+        "coordinates": {
+            "latitude": 23.62,
+            "longitude": 58.58
+        },
+        "flag": "https://flagcdn.com/w320/om.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Muscat",
+        "landlocked": false,
+        "area": 309500,
+        "population": 5106622,
+        "demonym": "Omani"
+    },
+    {
+        "id": 246,
+        "name_common": "Pakistan",
+        "name_official": "Islamic Republic of Pakistan",
+        "coordinates": {
+            "latitude": 33.68,
+            "longitude": 73.05
+        },
+        "flag": "https://flagcdn.com/w320/pk.png",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "capital": "Islamabad",
+        "landlocked": false,
+        "area": 881912,
+        "population": 220892331,
+        "demonym": "Pakistani"
+    },
+    {
+        "id": 188,
+        "name_common": "Palau",
+        "name_official": "Republic of Palau",
+        "coordinates": {
+            "latitude": 7.5,
+            "longitude": 134.62
+        },
+        "flag": "https://flagcdn.com/w320/pw.png",
+        "region": "Oceania",
+        "subregion": "Micronesia",
+        "capital": "Ngerulmud",
+        "landlocked": false,
+        "area": 459,
+        "population": 18092,
+        "demonym": "Palauan"
+    },
+    {
+        "id": 122,
+        "name_common": "Palestine",
+        "name_official": "State of Palestine",
+        "coordinates": {
+            "latitude": 31.9,
+            "longitude": 35.2
+        },
+        "flag": "https://flagcdn.com/w320/ps.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Ramallah",
+        "landlocked": false,
+        "area": 6220,
+        "population": 4803269,
+        "demonym": "Palestinian"
+    },
+    {
+        "id": 143,
+        "name_common": "Panama",
+        "name_official": "Republic of Panama",
+        "coordinates": {
+            "latitude": 8.97,
+            "longitude": -79.53
+        },
+        "flag": "https://flagcdn.com/w320/pa.png",
+        "region": "Americas",
+        "subregion": "Central America",
+        "capital": "Panama City",
+        "landlocked": false,
+        "area": 75417,
+        "population": 4314768,
+        "demonym": "Panamanian"
+    },
+    {
+        "id": 34,
+        "name_common": "Papua New Guinea",
+        "name_official": "Independent State of Papua New Guinea",
+        "coordinates": {
+            "latitude": -9.45,
+            "longitude": 147.18
+        },
+        "flag": "https://flagcdn.com/w320/pg.png",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "capital": "Port Moresby",
+        "landlocked": false,
+        "area": 462840,
+        "population": 8947027,
+        "demonym": "Papua New Guinean"
+    },
+    {
+        "id": 68,
+        "name_common": "Paraguay",
+        "name_official": "Republic of Paraguay",
+        "coordinates": {
+            "latitude": -25.28,
+            "longitude": -57.57
+        },
+        "flag": "https://flagcdn.com/w320/py.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Asunci\u00f3n",
+        "landlocked": true,
+        "area": 406752,
+        "population": 7132530,
+        "demonym": "Paraguayan"
+    },
+    {
+        "id": 194,
+        "name_common": "Peru",
+        "name_official": "Republic of Peru",
+        "coordinates": {
+            "latitude": -12.05,
+            "longitude": -77.05
+        },
+        "flag": "https://flagcdn.com/w320/pe.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Lima",
+        "landlocked": false,
+        "area": 1285216,
+        "population": 32971846,
+        "demonym": "Peruvian"
+    },
+    {
+        "id": 25,
+        "name_common": "Philippines",
+        "name_official": "Republic of the Philippines",
+        "coordinates": {
+            "latitude": 14.6,
+            "longitude": 120.97
+        },
+        "flag": "https://flagcdn.com/w320/ph.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Manila",
+        "landlocked": false,
+        "area": 342353,
+        "population": 109581085,
+        "demonym": "Filipino"
+    },
+    {
+        "id": 96,
+        "name_common": "Pitcairn Islands",
+        "name_official": "Pitcairn Group of Islands",
+        "coordinates": {
+            "latitude": -25.07,
+            "longitude": -130.08
+        },
+        "flag": "https://flagcdn.com/w320/pn.png",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "capital": "Adamstown",
+        "landlocked": false,
+        "area": 47,
+        "population": 56,
+        "demonym": "Pitcairn Islander"
+    },
+    {
+        "id": 65,
+        "name_common": "Poland",
+        "name_official": "Republic of Poland",
+        "coordinates": {
+            "latitude": 52.25,
+            "longitude": 21.0
+        },
+        "flag": "https://flagcdn.com/w320/pl.png",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "capital": "Warsaw",
+        "landlocked": false,
+        "area": 312679,
+        "population": 37950802,
+        "demonym": "Polish"
+    },
+    {
+        "id": 75,
+        "name_common": "Portugal",
+        "name_official": "Portuguese Republic",
+        "coordinates": {
+            "latitude": 38.72,
+            "longitude": -9.13
+        },
+        "flag": "https://flagcdn.com/w320/pt.png",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "capital": "Lisbon",
+        "landlocked": false,
+        "area": 92090,
+        "population": 10305564,
+        "demonym": "Portuguese"
+    },
+    {
+        "id": 231,
+        "name_common": "Puerto Rico",
+        "name_official": "Commonwealth of Puerto Rico",
+        "coordinates": {
+            "latitude": 18.47,
+            "longitude": -66.12
+        },
+        "flag": "https://flagcdn.com/w320/pr.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "San Juan",
+        "landlocked": false,
+        "area": 8870,
+        "population": 3194034,
+        "demonym": "Puerto Rican"
+    },
+    {
+        "id": 223,
+        "name_common": "Qatar",
+        "name_official": "State of Qatar",
+        "coordinates": {
+            "latitude": 25.28,
+            "longitude": 51.53
+        },
+        "flag": "https://flagcdn.com/w320/qa.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Doha",
+        "landlocked": false,
+        "area": 11586,
+        "population": 2881060,
+        "demonym": "Qatari"
+    },
+    {
+        "id": 148,
+        "name_common": "Republic of the Congo",
+        "name_official": "Republic of the Congo",
+        "coordinates": {
+            "latitude": -4.25,
+            "longitude": 15.28
+        },
+        "flag": "https://flagcdn.com/w320/cg.png",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "capital": "Brazzaville",
+        "landlocked": false,
+        "area": 342000,
+        "population": 5657000,
+        "demonym": "Congolese"
+    },
+    {
+        "id": 27,
+        "name_common": "Romania",
+        "name_official": "Romania",
+        "coordinates": {
+            "latitude": 44.43,
+            "longitude": 26.1
+        },
+        "flag": "https://flagcdn.com/w320/ro.png",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "capital": "Bucharest",
+        "landlocked": false,
+        "area": 238391,
+        "population": 19286123,
+        "demonym": "Romanian"
+    },
+    {
+        "id": 168,
+        "name_common": "Russia",
+        "name_official": "Russian Federation",
+        "coordinates": {
+            "latitude": 55.75,
+            "longitude": 37.6
+        },
+        "flag": "https://flagcdn.com/w320/ru.png",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "capital": "Moscow",
+        "landlocked": false,
+        "area": 17098242,
+        "population": 144104080,
+        "demonym": "Russian"
+    },
+    {
+        "id": 59,
+        "name_common": "Rwanda",
+        "name_official": "Republic of Rwanda",
+        "coordinates": {
+            "latitude": -1.95,
+            "longitude": 30.05
+        },
+        "flag": "https://flagcdn.com/w320/rw.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Kigali",
+        "landlocked": true,
+        "area": 26338,
+        "population": 12952209,
+        "demonym": "Rwandan"
+    },
+    {
+        "id": 137,
+        "name_common": "R\u00e9union",
+        "name_official": "R\u00e9union Island",
+        "coordinates": {
+            "latitude": -20.88,
+            "longitude": 55.45
+        },
+        "flag": "https://flagcdn.com/w320/re.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Saint-Denis",
+        "landlocked": false,
+        "area": 2511,
+        "population": 840974,
+        "demonym": "R\u00e9unionese"
+    },
+    {
+        "id": 207,
+        "name_common": "Saint Barth\u00e9lemy",
+        "name_official": "Collectivity of Saint Barth\u00e9lemy",
+        "coordinates": {
+            "latitude": 17.88,
+            "longitude": -62.85
+        },
+        "flag": "https://flagcdn.com/w320/bl.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Gustavia",
+        "landlocked": false,
+        "area": 21,
+        "population": 4255,
+        "demonym": "Saint Barth\u00e9lemy Islander"
+    },
+    {
+        "id": 100,
+        "name_common": "Saint Helena, Ascension and Tristan da Cunha",
+        "name_official": "Saint Helena, Ascension and Tristan da Cunha",
+        "coordinates": {
+            "latitude": -15.93,
+            "longitude": -5.72
+        },
+        "flag": "https://flagcdn.com/w320/sh.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Jamestown",
+        "landlocked": false,
+        "area": 394,
+        "population": 53192,
+        "demonym": "Saint Helenian"
+    },
+    {
+        "id": 225,
+        "name_common": "Saint Kitts and Nevis",
+        "name_official": "Federation of Saint Christopher and Nevis",
+        "coordinates": {
+            "latitude": 17.3,
+            "longitude": -62.72
+        },
+        "flag": "https://flagcdn.com/w320/kn.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Basseterre",
+        "landlocked": false,
+        "area": 261,
+        "population": 53192,
+        "demonym": "Kittitian or Nevisian"
+    },
+    {
+        "id": 161,
+        "name_common": "Saint Lucia",
+        "name_official": "Saint Lucia",
+        "coordinates": {
+            "latitude": 14.0,
+            "longitude": -61.0
+        },
+        "flag": "https://flagcdn.com/w320/lc.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Castries",
+        "landlocked": false,
+        "area": 616,
+        "population": 183629,
+        "demonym": "Saint Lucian"
+    },
+    {
+        "id": 149,
+        "name_common": "Saint Martin",
+        "name_official": "Saint Martin",
+        "coordinates": {
+            "latitude": 18.07,
+            "longitude": -63.08
+        },
+        "flag": "https://flagcdn.com/w320/mf.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Marigot",
+        "landlocked": false,
+        "area": 53,
+        "population": 38659,
+        "demonym": "Saint Martin Islander"
+    },
+    {
+        "id": 99,
+        "name_common": "Saint Pierre and Miquelon",
+        "name_official": "Saint Pierre and Miquelon",
+        "coordinates": {
+            "latitude": 46.77,
+            "longitude": -56.18
+        },
+        "flag": "https://flagcdn.com/w320/pm.png",
+        "region": "Americas",
+        "subregion": "North America",
+        "capital": "Saint-Pierre",
+        "landlocked": false,
+        "area": 242,
+        "population": 6069,
+        "demonym": "Saint-Pierrais, Miquelonnais"
+    },
+    {
+        "id": 26,
+        "name_common": "Saint Vincent and the Grenadines",
+        "name_official": "Saint Vincent and the Grenadines",
+        "coordinates": {
+            "latitude": 13.13,
+            "longitude": -61.22
+        },
+        "flag": "https://flagcdn.com/w320/vc.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Kingstown",
+        "landlocked": false,
+        "area": 389,
+        "population": 110947,
+        "demonym": "Saint Vincentian"
+    },
+    {
+        "id": 92,
+        "name_common": "Samoa",
+        "name_official": "Independent State of Samoa",
+        "coordinates": {
+            "latitude": -13.82,
+            "longitude": -171.77
+        },
+        "flag": "https://flagcdn.com/w320/ws.png",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "capital": "Apia",
+        "landlocked": false,
+        "area": 2842,
+        "population": 198410,
+        "demonym": "Samoan"
+    },
+    {
+        "id": 5,
+        "name_common": "San Marino",
+        "name_official": "Republic of San Marino",
+        "coordinates": {
+            "latitude": 43.94,
+            "longitude": 12.45
+        },
+        "flag": "https://flagcdn.com/w320/sm.png",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "capital": "City of San Marino",
+        "landlocked": true,
+        "area": 61,
+        "population": 33938,
+        "demonym": "Sammarinese"
+    },
+    {
+        "id": 195,
+        "name_common": "Saudi Arabia",
+        "name_official": "Kingdom of Saudi Arabia",
+        "coordinates": {
+            "latitude": 24.65,
+            "longitude": 46.7
+        },
+        "flag": "https://flagcdn.com/w320/sa.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Riyadh",
+        "landlocked": false,
+        "area": 2149690,
+        "population": 34813867,
+        "demonym": "Saudi Arabian"
+    },
+    {
+        "id": 197,
+        "name_common": "Senegal",
+        "name_official": "Republic of Senegal",
+        "coordinates": {
+            "latitude": 14.73,
+            "longitude": -17.63
+        },
+        "flag": "https://flagcdn.com/w320/sn.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Dakar",
+        "landlocked": false,
+        "area": 196722,
+        "population": 16743930,
+        "demonym": "Senegalese"
+    },
+    {
+        "id": 121,
+        "name_common": "Serbia",
+        "name_official": "Republic of Serbia",
+        "coordinates": {
+            "latitude": 44.83,
+            "longitude": 20.5
+        },
+        "flag": "https://flagcdn.com/w320/rs.png",
+        "region": "Europe",
+        "subregion": "Southeast Europe",
+        "capital": "Belgrade",
+        "landlocked": true,
+        "area": 88361,
+        "population": 6908224,
+        "demonym": "Serbian"
+    },
+    {
+        "id": 238,
+        "name_common": "Seychelles",
+        "name_official": "Republic of Seychelles",
+        "coordinates": {
+            "latitude": -4.62,
+            "longitude": 55.45
+        },
+        "flag": "https://flagcdn.com/w320/sc.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Victoria",
+        "landlocked": false,
+        "area": 452,
+        "population": 98462,
+        "demonym": "Seychellois"
+    },
+    {
+        "id": 145,
+        "name_common": "Sierra Leone",
+        "name_official": "Republic of Sierra Leone",
+        "coordinates": {
+            "latitude": 8.48,
+            "longitude": -13.23
+        },
+        "flag": "https://flagcdn.com/w320/sl.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Freetown",
+        "landlocked": false,
+        "area": 71740,
+        "population": 7976985,
+        "demonym": "Sierra Leonean"
+    },
+    {
+        "id": 234,
+        "name_common": "Singapore",
+        "name_official": "Republic of Singapore",
+        "coordinates": {
+            "latitude": 1.28,
+            "longitude": 103.85
+        },
+        "flag": "https://flagcdn.com/w320/sg.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Singapore",
+        "landlocked": false,
+        "area": 710,
+        "population": 5685807,
+        "demonym": "Singaporean"
+    },
+    {
+        "id": 205,
+        "name_common": "Sint Maarten",
+        "name_official": "Sint Maarten",
+        "coordinates": {
+            "latitude": 18.02,
+            "longitude": -63.03
+        },
+        "flag": "https://flagcdn.com/w320/sx.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Philipsburg",
+        "landlocked": false,
+        "area": 34,
+        "population": 40812,
+        "demonym": "St. Maartener"
+    },
+    {
+        "id": 18,
+        "name_common": "Slovakia",
+        "name_official": "Slovak Republic",
+        "coordinates": {
+            "latitude": 48.15,
+            "longitude": 17.12
+        },
+        "flag": "https://flagcdn.com/w320/sk.png",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "capital": "Bratislava",
+        "landlocked": true,
+        "area": 49037,
+        "population": 5458827,
+        "demonym": "Slovak"
+    },
+    {
+        "id": 209,
+        "name_common": "Slovenia",
+        "name_official": "Republic of Slovenia",
+        "coordinates": {
+            "latitude": 46.05,
+            "longitude": 14.52
+        },
+        "flag": "https://flagcdn.com/w320/si.png",
+        "region": "Europe",
+        "subregion": "Central Europe",
+        "capital": "Ljubljana",
+        "landlocked": false,
+        "area": 20273,
+        "population": 2100126,
+        "demonym": "Slovene"
+    },
+    {
+        "id": 38,
+        "name_common": "Solomon Islands",
+        "name_official": "Solomon Islands",
+        "coordinates": {
+            "latitude": -9.43,
+            "longitude": 159.95
+        },
+        "flag": "https://flagcdn.com/w320/sb.png",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "capital": "Honiara",
+        "landlocked": false,
+        "area": 28896,
+        "population": 686878,
+        "demonym": "Solomon Islander"
+    },
+    {
+        "id": 226,
+        "name_common": "Somalia",
+        "name_official": "Federal Republic of Somalia",
+        "coordinates": {
+            "latitude": 2.07,
+            "longitude": 45.33
+        },
+        "flag": "https://flagcdn.com/w320/so.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Mogadishu",
+        "landlocked": false,
+        "area": 637657,
+        "population": 15893219,
+        "demonym": "Somali"
+    },
+    {
+        "id": 57,
+        "name_common": "South Africa",
+        "name_official": "Republic of South Africa",
+        "coordinates": {
+            "latitude": -25.7,
+            "longitude": 28.22
+        },
+        "flag": "https://flagcdn.com/w320/za.png",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "capital": "Pretoria",
+        "landlocked": false,
+        "area": 1221037,
+        "population": 59308690,
+        "demonym": "South African"
+    },
+    {
+        "id": 111,
+        "name_common": "South Georgia",
+        "name_official": "South Georgia and the South Sandwich Islands",
+        "coordinates": {
+            "latitude": -54.28,
+            "longitude": -36.5
+        },
+        "flag": "https://flagcdn.com/w320/gs.png",
+        "region": "Antarctic",
+        "subregion": "Antarctic",
+        "capital": "King Edward Point",
+        "landlocked": false,
+        "area": 3903,
+        "population": 30,
+        "demonym": "South Georgian South Sandwich Islander"
+    },
+    {
+        "id": 47,
+        "name_common": "South Korea",
+        "name_official": "Republic of Korea",
+        "coordinates": {
+            "latitude": 37.55,
+            "longitude": 126.98
+        },
+        "flag": "https://flagcdn.com/w320/kr.png",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "capital": "Seoul",
+        "landlocked": false,
+        "area": 100210,
+        "population": 51780579,
+        "demonym": "South Korean"
+    },
+    {
+        "id": 237,
+        "name_common": "South Sudan",
+        "name_official": "Republic of South Sudan",
+        "coordinates": {
+            "latitude": 4.85,
+            "longitude": 31.62
+        },
+        "flag": "https://flagcdn.com/w320/ss.png",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "capital": "Juba",
+        "landlocked": true,
+        "area": 619745,
+        "population": 11193729,
+        "demonym": "South Sudanese"
+    },
+    {
+        "id": 190,
+        "name_common": "Spain",
+        "name_official": "Kingdom of Spain",
+        "coordinates": {
+            "latitude": 40.4,
+            "longitude": -3.68
+        },
+        "flag": "https://flagcdn.com/w320/es.png",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "capital": "Madrid",
+        "landlocked": false,
+        "area": 505992,
+        "population": 47351567,
+        "demonym": "Spanish"
+    },
+    {
+        "id": 186,
+        "name_common": "Sri Lanka",
+        "name_official": "Democratic Socialist Republic of Sri Lanka",
+        "coordinates": {
+            "latitude": 6.89,
+            "longitude": 79.9
+        },
+        "flag": "https://flagcdn.com/w320/lk.png",
+        "region": "Asia",
+        "subregion": "Southern Asia",
+        "capital": "Sri Jayawardenepura Kotte",
+        "landlocked": false,
+        "area": 65610,
+        "population": 21919000,
+        "demonym": "Sri Lankan"
+    },
+    {
+        "id": 165,
+        "name_common": "Sudan",
+        "name_official": "Republic of the Sudan",
+        "coordinates": {
+            "latitude": 15.6,
+            "longitude": 32.53
+        },
+        "flag": "https://flagcdn.com/w320/sd.png",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "capital": "Khartoum",
+        "landlocked": false,
+        "area": 1886068,
+        "population": 43849269,
+        "demonym": "Sudanese"
+    },
+    {
+        "id": 48,
+        "name_common": "Suriname",
+        "name_official": "Republic of Suriname",
+        "coordinates": {
+            "latitude": 5.83,
+            "longitude": -55.17
+        },
+        "flag": "https://flagcdn.com/w320/sr.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Paramaribo",
+        "landlocked": false,
+        "area": 163820,
+        "population": 586634,
+        "demonym": "Surinamer"
+    },
+    {
+        "id": 88,
+        "name_common": "Svalbard and Jan Mayen",
+        "name_official": "Svalbard og Jan Mayen",
+        "coordinates": {
+            "latitude": 78.22,
+            "longitude": 15.63
+        },
+        "flag": "https://flagcdn.com/w320/sj.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Longyearbyen",
+        "landlocked": false,
+        "area": -1,
+        "population": 2562,
+        "demonym": "Norwegian"
+    },
+    {
+        "id": 20,
+        "name_common": "Sweden",
+        "name_official": "Kingdom of Sweden",
+        "coordinates": {
+            "latitude": 59.33,
+            "longitude": 18.05
+        },
+        "flag": "https://flagcdn.com/w320/se.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Stockholm",
+        "landlocked": false,
+        "area": 450295,
+        "population": 10353442,
+        "demonym": "Swedish"
+    },
+    {
+        "id": 120,
+        "name_common": "Switzerland",
+        "name_official": "Swiss Confederation",
+        "coordinates": {
+            "latitude": 46.92,
+            "longitude": 7.47
+        },
+        "flag": "https://flagcdn.com/w320/ch.png",
+        "region": "Europe",
+        "subregion": "Western Europe",
+        "capital": "Bern",
+        "landlocked": true,
+        "area": 41284,
+        "population": 8654622,
+        "demonym": "Swiss"
+    },
+    {
+        "id": 199,
+        "name_common": "Syria",
+        "name_official": "Syrian Arab Republic",
+        "coordinates": {
+            "latitude": 33.5,
+            "longitude": 36.3
+        },
+        "flag": "https://flagcdn.com/w320/sy.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Damascus",
+        "landlocked": false,
+        "area": 185180,
+        "population": 17500657,
+        "demonym": "Syrian"
+    },
+    {
+        "id": 235,
+        "name_common": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "name_official": "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+        "coordinates": {
+            "latitude": 0.34,
+            "longitude": 6.73
+        },
+        "flag": "https://flagcdn.com/w320/st.png",
+        "region": "Africa",
+        "subregion": "Middle Africa",
+        "capital": "S\u00e3o Tom\u00e9",
+        "landlocked": false,
+        "area": 964,
+        "population": 219161,
+        "demonym": "Sao Tomean"
+    },
+    {
+        "id": 147,
+        "name_common": "Taiwan",
+        "name_official": "Republic of China (Taiwan)",
+        "coordinates": {
+            "latitude": 25.03,
+            "longitude": 121.52
+        },
+        "flag": "https://flagcdn.com/w320/tw.png",
+        "region": "Asia",
+        "subregion": "Eastern Asia",
+        "capital": "Taipei",
+        "landlocked": false,
+        "area": 36193,
+        "population": 23503349,
+        "demonym": "Taiwanese"
+    },
+    {
+        "id": 62,
+        "name_common": "Tajikistan",
+        "name_official": "Republic of Tajikistan",
+        "coordinates": {
+            "latitude": 38.55,
+            "longitude": 68.77
+        },
+        "flag": "https://flagcdn.com/w320/tj.png",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "capital": "Dushanbe",
+        "landlocked": true,
+        "area": 143100,
+        "population": 9537642,
+        "demonym": "Tadzhik"
+    },
+    {
+        "id": 66,
+        "name_common": "Tanzania",
+        "name_official": "United Republic of Tanzania",
+        "coordinates": {
+            "latitude": -6.16,
+            "longitude": 35.75
+        },
+        "flag": "https://flagcdn.com/w320/tz.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Dodoma",
+        "landlocked": false,
+        "area": 945087,
+        "population": 59734213,
+        "demonym": "Tanzanian"
+    },
+    {
+        "id": 24,
+        "name_common": "Thailand",
+        "name_official": "Kingdom of Thailand",
+        "coordinates": {
+            "latitude": 13.75,
+            "longitude": 100.52
+        },
+        "flag": "https://flagcdn.com/w320/th.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Bangkok",
+        "landlocked": false,
+        "area": 513120,
+        "population": 69799978,
+        "demonym": "Thai"
+    },
+    {
+        "id": 162,
+        "name_common": "Timor-Leste",
+        "name_official": "Democratic Republic of Timor-Leste",
+        "coordinates": {
+            "latitude": -8.58,
+            "longitude": 125.6
+        },
+        "flag": "https://flagcdn.com/w320/tl.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Dili",
+        "landlocked": false,
+        "area": 14874,
+        "population": 1318442,
+        "demonym": "East Timorese"
+    },
+    {
+        "id": 171,
+        "name_common": "Togo",
+        "name_official": "Togolese Republic",
+        "coordinates": {
+            "latitude": 6.14,
+            "longitude": 1.21
+        },
+        "flag": "https://flagcdn.com/w320/tg.png",
+        "region": "Africa",
+        "subregion": "Western Africa",
+        "capital": "Lom\u00e9",
+        "landlocked": false,
+        "area": 56785,
+        "population": 8278737,
+        "demonym": "Togolese"
+    },
+    {
+        "id": 157,
+        "name_common": "Tokelau",
+        "name_official": "Tokelau",
+        "coordinates": {
+            "latitude": -9.38,
+            "longitude": -171.22
+        },
+        "flag": "https://flagcdn.com/w320/tk.png",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "capital": "Fakaofo",
+        "landlocked": false,
+        "area": 12,
+        "population": 1411,
+        "demonym": "Tokelauan"
+    },
+    {
+        "id": 166,
+        "name_common": "Tonga",
+        "name_official": "Kingdom of Tonga",
+        "coordinates": {
+            "latitude": -21.13,
+            "longitude": -175.2
+        },
+        "flag": "https://flagcdn.com/w320/to.png",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "capital": "Nuku'alofa",
+        "landlocked": false,
+        "area": 747,
+        "population": 105697,
+        "demonym": "Tongan"
+    },
+    {
+        "id": 43,
+        "name_common": "Trinidad and Tobago",
+        "name_official": "Republic of Trinidad and Tobago",
+        "coordinates": {
+            "latitude": 10.65,
+            "longitude": -61.52
+        },
+        "flag": "https://flagcdn.com/w320/tt.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Port of Spain",
+        "landlocked": false,
+        "area": 5130,
+        "population": 1399491,
+        "demonym": "Trinidadian"
+    },
+    {
+        "id": 56,
+        "name_common": "Tunisia",
+        "name_official": "Tunisian Republic",
+        "coordinates": {
+            "latitude": 36.8,
+            "longitude": 10.18
+        },
+        "flag": "https://flagcdn.com/w320/tn.png",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "capital": "Tunis",
+        "landlocked": false,
+        "area": 163610,
+        "population": 11818618,
+        "demonym": "Tunisian"
+    },
+    {
+        "id": 220,
+        "name_common": "Turkey",
+        "name_official": "Republic of Turkey",
+        "coordinates": {
+            "latitude": 39.93,
+            "longitude": 32.87
+        },
+        "flag": "https://flagcdn.com/w320/tr.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Ankara",
+        "landlocked": false,
+        "area": 783562,
+        "population": 84339067,
+        "demonym": "Turkish"
+    },
+    {
+        "id": 130,
+        "name_common": "Turkmenistan",
+        "name_official": "Turkmenistan",
+        "coordinates": {
+            "latitude": 37.95,
+            "longitude": 58.38
+        },
+        "flag": "https://flagcdn.com/w320/tm.png",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "capital": "Ashgabat",
+        "landlocked": true,
+        "area": 488100,
+        "population": 6031187,
+        "demonym": "Turkmen"
+    },
+    {
+        "id": 224,
+        "name_common": "Turks and Caicos Islands",
+        "name_official": "Turks and Caicos Islands",
+        "coordinates": {
+            "latitude": 21.46,
+            "longitude": -71.14
+        },
+        "flag": "https://flagcdn.com/w320/tc.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Cockburn Town",
+        "landlocked": false,
+        "area": 948,
+        "population": 38718,
+        "demonym": "Turks and Caicos Islander"
+    },
+    {
+        "id": 85,
+        "name_common": "Tuvalu",
+        "name_official": "Tuvalu",
+        "coordinates": {
+            "latitude": -8.52,
+            "longitude": 179.22
+        },
+        "flag": "https://flagcdn.com/w320/tv.png",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "capital": "Funafuti",
+        "landlocked": false,
+        "area": 26,
+        "population": 11792,
+        "demonym": "Tuvaluan"
+    },
+    {
+        "id": 206,
+        "name_common": "Uganda",
+        "name_official": "Republic of Uganda",
+        "coordinates": {
+            "latitude": 0.32,
+            "longitude": 32.55
+        },
+        "flag": "https://flagcdn.com/w320/ug.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Kampala",
+        "landlocked": true,
+        "area": 241550,
+        "population": 45741000,
+        "demonym": "Ugandan"
+    },
+    {
+        "id": 243,
+        "name_common": "Ukraine",
+        "name_official": "Ukraine",
+        "coordinates": {
+            "latitude": 50.43,
+            "longitude": 30.52
+        },
+        "flag": "https://flagcdn.com/w320/ua.png",
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "capital": "Kyiv",
+        "landlocked": false,
+        "area": 603500,
+        "population": 44134693,
+        "demonym": "Ukrainian"
+    },
+    {
+        "id": 69,
+        "name_common": "United Arab Emirates",
+        "name_official": "United Arab Emirates",
+        "coordinates": {
+            "latitude": 24.47,
+            "longitude": 54.37
+        },
+        "flag": "https://flagcdn.com/w320/ae.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Abu Dhabi",
+        "landlocked": false,
+        "area": 83600,
+        "population": 9890400,
+        "demonym": "Emirati"
+    },
+    {
+        "id": 158,
+        "name_common": "United Kingdom",
+        "name_official": "United Kingdom of Great Britain and Northern Ireland",
+        "coordinates": {
+            "latitude": 51.5,
+            "longitude": -0.08
+        },
+        "flag": "https://flagcdn.com/w320/gb.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "London",
+        "landlocked": false,
+        "area": 242900,
+        "population": 67215293,
+        "demonym": "British"
+    },
+    {
+        "id": 201,
+        "name_common": "United States",
+        "name_official": "United States of America",
+        "coordinates": {
+            "latitude": 38.89,
+            "longitude": -77.05
+        },
+        "flag": "https://flagcdn.com/w320/us.png",
+        "region": "Americas",
+        "subregion": "North America",
+        "capital": "Washington, D.C.",
+        "landlocked": false,
+        "area": 9372610,
+        "population": 329484123,
+        "demonym": "American"
+    },
+    {
+        "id": 178,
+        "name_common": "United States Minor Outlying Islands",
+        "name_official": "United States Minor Outlying Islands",
+        "coordinates": {
+            "latitude": 19.3,
+            "longitude": 166.633333
+        },
+        "flag": "https://flagcdn.com/w320/um.png",
+        "region": "Americas",
+        "subregion": "North America",
+        "capital": "Washington DC",
+        "landlocked": false,
+        "area": 34,
+        "population": 300,
+        "demonym": "American Islander"
+    },
+    {
+        "id": 172,
+        "name_common": "United States Virgin Islands",
+        "name_official": "Virgin Islands of the United States",
+        "coordinates": {
+            "latitude": 18.35,
+            "longitude": -64.93
+        },
+        "flag": "https://flagcdn.com/w320/vi.png",
+        "region": "Americas",
+        "subregion": "Caribbean",
+        "capital": "Charlotte Amalie",
+        "landlocked": false,
+        "area": 347,
+        "population": 106290,
+        "demonym": "Virgin Islander"
+    },
+    {
+        "id": 53,
+        "name_common": "Uruguay",
+        "name_official": "Oriental Republic of Uruguay",
+        "coordinates": {
+            "latitude": -34.85,
+            "longitude": -56.17
+        },
+        "flag": "https://flagcdn.com/w320/uy.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Montevideo",
+        "landlocked": false,
+        "area": 181034,
+        "population": 3473727,
+        "demonym": "Uruguayan"
+    },
+    {
+        "id": 30,
+        "name_common": "Uzbekistan",
+        "name_official": "Republic of Uzbekistan",
+        "coordinates": {
+            "latitude": 41.32,
+            "longitude": 69.25
+        },
+        "flag": "https://flagcdn.com/w320/uz.png",
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "capital": "Tashkent",
+        "landlocked": true,
+        "area": 447400,
+        "population": 34232050,
+        "demonym": "Uzbekistani"
+    },
+    {
+        "id": 6,
+        "name_common": "Vanuatu",
+        "name_official": "Republic of Vanuatu",
+        "coordinates": {
+            "latitude": -17.73,
+            "longitude": 168.32
+        },
+        "flag": "https://flagcdn.com/w320/vu.png",
+        "region": "Oceania",
+        "subregion": "Melanesia",
+        "capital": "Port Vila",
+        "landlocked": false,
+        "area": 12189,
+        "population": 307150,
+        "demonym": "Ni-Vanuatu"
+    },
+    {
+        "id": 115,
+        "name_common": "Vatican City",
+        "name_official": "Vatican City State",
+        "coordinates": {
+            "latitude": 41.9,
+            "longitude": 12.45
+        },
+        "flag": "https://flagcdn.com/w320/va.png",
+        "region": "Europe",
+        "subregion": "Southern Europe",
+        "capital": "Vatican City",
+        "landlocked": true,
+        "area": 0,
+        "population": 451,
+        "demonym": "Vatican"
+    },
+    {
+        "id": 169,
+        "name_common": "Venezuela",
+        "name_official": "Bolivarian Republic of Venezuela",
+        "coordinates": {
+            "latitude": 10.48,
+            "longitude": -66.87
+        },
+        "flag": "https://flagcdn.com/w320/ve.png",
+        "region": "Americas",
+        "subregion": "South America",
+        "capital": "Caracas",
+        "landlocked": false,
+        "area": 916445,
+        "population": 28435943,
+        "demonym": "Venezuelan"
+    },
+    {
+        "id": 236,
+        "name_common": "Vietnam",
+        "name_official": "Socialist Republic of Vietnam",
+        "coordinates": {
+            "latitude": 21.03,
+            "longitude": 105.85
+        },
+        "flag": "https://flagcdn.com/w320/vn.png",
+        "region": "Asia",
+        "subregion": "South-Eastern Asia",
+        "capital": "Hanoi",
+        "landlocked": false,
+        "area": 331212,
+        "population": 97338583,
+        "demonym": "Vietnamese"
+    },
+    {
+        "id": 156,
+        "name_common": "Wallis and Futuna",
+        "name_official": "Territory of the Wallis and Futuna Islands",
+        "coordinates": {
+            "latitude": -13.95,
+            "longitude": -171.93
+        },
+        "flag": "https://flagcdn.com/w320/wf.png",
+        "region": "Oceania",
+        "subregion": "Polynesia",
+        "capital": "Mata-Utu",
+        "landlocked": false,
+        "area": 142,
+        "population": 11750,
+        "demonym": "Wallis and Futuna Islander"
+    },
+    {
+        "id": 229,
+        "name_common": "Western Sahara",
+        "name_official": "Sahrawi Arab Democratic Republic",
+        "coordinates": {
+            "latitude": -13.28,
+            "longitude": 27.14
+        },
+        "flag": "https://flagcdn.com/w320/eh.png",
+        "region": "Africa",
+        "subregion": "Northern Africa",
+        "capital": "El Aai\u00fan",
+        "landlocked": false,
+        "area": 266000,
+        "population": 510713,
+        "demonym": "Sahrawi"
+    },
+    {
+        "id": 203,
+        "name_common": "Yemen",
+        "name_official": "Republic of Yemen",
+        "coordinates": {
+            "latitude": 15.37,
+            "longitude": 44.19
+        },
+        "flag": "https://flagcdn.com/w320/ye.png",
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "capital": "Sana'a",
+        "landlocked": false,
+        "area": 527968,
+        "population": 29825968,
+        "demonym": "Yemeni"
+    },
+    {
+        "id": 80,
+        "name_common": "Zambia",
+        "name_official": "Republic of Zambia",
+        "coordinates": {
+            "latitude": -15.42,
+            "longitude": 28.28
+        },
+        "flag": "https://flagcdn.com/w320/zm.png",
+        "region": "Africa",
+        "subregion": "Eastern Africa",
+        "capital": "Lusaka",
+        "landlocked": true,
+        "area": 752612,
+        "population": 18383956,
+        "demonym": "Zambian"
+    },
+    {
+        "id": 233,
+        "name_common": "Zimbabwe",
+        "name_official": "Republic of Zimbabwe",
+        "coordinates": {
+            "latitude": -17.82,
+            "longitude": 31.03
+        },
+        "flag": "https://flagcdn.com/w320/zw.png",
+        "region": "Africa",
+        "subregion": "Southern Africa",
+        "capital": "Harare",
+        "landlocked": true,
+        "area": 390757,
+        "population": 14862927,
+        "demonym": "Zimbabwean"
+    },
+    {
+        "id": 86,
+        "name_common": "\u00c5land Islands",
+        "name_official": "\u00c5land Islands",
+        "coordinates": {
+            "latitude": 60.12,
+            "longitude": 19.9
+        },
+        "flag": "https://flagcdn.com/w320/ax.png",
+        "region": "Europe",
+        "subregion": "Northern Europe",
+        "capital": "Mariehamn",
+        "landlocked": false,
+        "area": 1580,
+        "population": 29458,
+        "demonym": "\u00c5landish"
+    }
+]
+

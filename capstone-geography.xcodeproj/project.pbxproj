@@ -12,6 +12,7 @@
 		1896393B2994020F00AB9C75 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1896393A2994020F00AB9C75 /* LocationManager.swift */; };
 		189AAB7F2998284600012033 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 189AAB7E2998284600012033 /* SearchBar.swift */; };
 		18A9E51D298EE0B1005942B5 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A9E51C298EE0B1005942B5 /* MapView.swift */; };
+		18AA427329A6D2BE00DE7B53 /* countries.json in Resources */ = {isa = PBXBuildFile; fileRef = 18AA427229A6D2BE00DE7B53 /* countries.json */; };
 		18C38CC7298ADBE1002863CE /* capstone_geographyApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C38CC6298ADBE1002863CE /* capstone_geographyApp.swift */; };
 		18C38CC9298ADBE1002863CE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18C38CC8298ADBE1002863CE /* ContentView.swift */; };
 		18C38CCB298ADBE5002863CE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18C38CCA298ADBE5002863CE /* Assets.xcassets */; };
@@ -46,6 +47,7 @@
 		1896393A2994020F00AB9C75 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 		189AAB7E2998284600012033 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
 		18A9E51C298EE0B1005942B5 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		18AA427229A6D2BE00DE7B53 /* countries.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = countries.json; sourceTree = "<group>"; };
 		18C38CC3298ADBE1002863CE /* capstone-geography.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "capstone-geography.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		18C38CC6298ADBE1002863CE /* capstone_geographyApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = capstone_geographyApp.swift; sourceTree = "<group>"; };
 		18C38CC8298ADBE1002863CE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -92,6 +94,7 @@
 				18426CCC298C180D005C544E /* CountryDetail.swift */,
 				18C38CF3298AE0C6002863CE /* CountryList.swift */,
 				18963938299400BE00AB9C75 /* SettingsView.swift */,
+				18AA427229A6D2BE00DE7B53 /* countries.json */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -270,6 +273,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18AA427329A6D2BE00DE7B53 /* countries.json in Resources */,
 				18C38CCE298ADBE5002863CE /* Preview Assets.xcassets in Resources */,
 				18C38CCB298ADBE5002863CE /* Assets.xcassets in Resources */,
 			);
