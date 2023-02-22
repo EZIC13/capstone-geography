@@ -94,7 +94,6 @@
 				18426CCC298C180D005C544E /* CountryDetail.swift */,
 				18C38CF3298AE0C6002863CE /* CountryList.swift */,
 				18963938299400BE00AB9C75 /* SettingsView.swift */,
-				18AA427229A6D2BE00DE7B53 /* countries.json */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -105,6 +104,7 @@
 				18A9E51C298EE0B1005942B5 /* MapView.swift */,
 				1896393A2994020F00AB9C75 /* LocationManager.swift */,
 				18C38CF1298AE05F002863CE /* Data.swift */,
+				18AA427229A6D2BE00DE7B53 /* countries.json */,
 				189AAB7E2998284600012033 /* SearchBar.swift */,
 			);
 			path = Data;
