@@ -38,6 +38,7 @@ struct Country: Hashable, Codable, Identifiable {
 class CountriesService: ObservableObject {
 
     @Published var countries: [Country] = []
+    @Published var source: String = ""
     
     init() {
         getCountries()
@@ -82,6 +83,7 @@ class CountriesService: ObservableObject {
                         DispatchQueue.main.async {
                             self.countries = countries
                             print("Retrieved saved countries from UserDefaults")
+                            self.source = "UserDefaults"
                         }
                     } catch {
                         print("Error decoding saved countries: \(error)")
@@ -90,6 +92,7 @@ class CountriesService: ObservableObject {
                     DispatchQueue.main.async {
                         self.countries = self.load("countries.json")
                         print("Retrieved saved countries from JSON")
+                        self.source = "JSON"
                     }
                 }
                 return
@@ -104,6 +107,7 @@ class CountriesService: ObservableObject {
                     DispatchQueue.main.async {
                         self.countries = countries
                         print("Got countries from server")
+                        self.source = "API"
                         
                         //Save to local storage for offline viewing
                         let encoder = JSONEncoder()

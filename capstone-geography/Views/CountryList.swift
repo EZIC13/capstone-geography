@@ -21,6 +21,8 @@ struct CountryList: View {
                 //The searchbar
                 SearchBar(text: $searchText)
                 
+                Text("Data retrieved from \(countriesService.source)")
+                
                 //Search results (shows all countries if its empty)
                 List {
                     // Iterates through a sorted array of unique first letters of the country names
